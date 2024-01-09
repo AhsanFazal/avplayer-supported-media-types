@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VideoDynamicRangeDolbyVision</key>
+	<string>Dolby Vision 5</string>
+	<key>VideoDynamicRangeDolbyVision8p4</key>
+	<string>Dolby Vision 8.4</string>
+	<key>VideoDynamicRangeHDR10</key>
+	<string>HDR10</string>
+	<key>VideoDynamicRangeHLG</key>
+	<string>HLG</string>
+	<key>VideoDynamicRangeSDR</key>
+	<string>SDR</string>
+	<key>VideoDynamicRangeUnknown</key>
+	<string>Desconocido</string>
+	<key>clcp</key>
+	<string>Subtítulos opcionales</string>
+	<key>clcpatcc</key>
+	<string>ATSC/52 part-4</string>
+	<key>clcpc608</key>
+	<string>CEA 608</string>
+	<key>clcpc708</key>
+	<string>CEA 708</string>
+	<key>hintrtp </key>
+	<string>Indicación</string>
+	<key>meta</key>
+	<string>Metadatos</string>
+	<key>metamebx</key>
+	<string>Metadatos Timed</string>
+	<key>musimusi</key>
+	<string>Música</string>
+	<key>muxx</key>
+	<string>Muxed</string>
+	<key>obje</key>
+	<string>QTVR Object</string>
+	<key>odsm</key>
+	<string>MPEG-4 ODSM</string>
+	<key>odsmmp4s</key>
+	<string>MPEG-4 ODSM</string>
+	<key>pano</key>
+	<string>Panorama VR</string>
+	<key>qtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtvrqtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtz </key>
+	<string>Quartz Composer</string>
+	<key>qtz qtz </key>
+	<string>Quartz Composer</string>
+	<key>sbtl</key>
+	<string>Subtítulo</string>
+	<key>sbtldrmt</key>
+	<string>Subtítulo</string>
+	<key>sbtltx3g</key>
+	<string>Subtítulo</string>
+	<key>sdsm</key>
+	<string>MPEG-4 SDSM</string>
+	<key>sdsmmp4s</key>
+	<string>MPEG-4 SDSM</string>
+	<key>skin</key>
+	<string>Skin</string>
+	<key>skinskcr</key>
+	<string>Skin</string>
+	<key>skinskdr</key>
+	<string>Skin</string>
+	<key>soun</key>
+	<string>Sonido</string>
+	<key>sounalac</key>
+	<string>Apple Lossless</string>
+	<key>sounclac</key>
+	<string>Apple Lossless (encriptado)</string>
+	<key>sounpaac</key>
+	<string>AAC (protegido)</string>
+	<key>sounpac3</key>
+	<string>AC‑3 Dolby Digital (protegido)</string>
+	<key>sounpach</key>
+	<string>HE-AACv1 (protegido)</string>
+	<key>sounpacp</key>
+	<string>HE-AACv2 (protegido)</string>
+	<key>sounpc+3</key>
+	<string>Dolby Atmos (protegido)</string>
+	<key>sounpec3</key>
+	<string>EC‑3 Dolby Digital+ (protegido)</string>
+	<key>sounqaac</key>
+	<string>AAC (protegido, MP4 fragmentado)</string>
+	<key>sounqac3</key>
+	<string>AC‑3 Dolby Digital (protegido, MP4 fragmentado)</string>
+	<key>sounqach</key>
+	<string>HE‑AACv1 (protegido, MP4 fragmentado)</string>
+	<key>sounqacp</key>
+	<string>HE‑AACv2 (protegido, MP4 fragmentado)</string>
+	<key>sounqc+3</key>
+	<string>Dolby Atmos (protegido, MP4 fragmentado)</string>
+	<key>sounqec3</key>
+	<string>EC‑3 Dolby Digital+ (protegido, MP4 fragmentado)</string>
+	<key>sounqlac</key>
+	<string>Apple Lossless (protegido, MP4 fragmentado)</string>
+	<key>sounvdva</key>
+	<string>DV</string>
+	<key>sounzaac</key>
+	<string>AAC (protegido, secuencia de transporte)</string>
+	<key>sounzac3</key>
+	<string>AC‑3 Dolby Digital (protegido, secuencia de transporte)</string>
+	<key>sounzach</key>
+	<string>HE‑AACv1 (protegido, secuencia de transporte)</string>
+	<key>sounzacp</key>
+	<string>HE‑AACv2 (protegido, secuencia de transporte)</string>
+	<key>sounzc+3</key>
+	<string>Dolby Atmos (protegido, secuencia de transporte)</string>
+	<key>sounzec3</key>
+	<string>EC‑3 Dolby Digital+ (protegido, secuencia de transporte)</string>
+	<key>sounzlac</key>
+	<string>Apple Lossless (protegido, secuencia de transporte)</string>
+	<key>sprt</key>
+	<string>Sprite</string>
+	<key>strm</key>
+	<string>Transmisión</string>
+	<key>strmrtsp</key>
+	<string>Transmisión</string>
+	<key>text</key>
+	<string>Texto</string>
+	<key>texttext</key>
+	<string>Texto QuickTime</string>
+	<key>texttx3g</key>
+	<string>Texto 3GPP</string>
+	<key>tmcd</key>
+	<string>Código de tiempo</string>
+	<key>tmcdtmcd</key>
+	<string>Código de tiempo</string>
+	<key>tmet</key>
+	<string>Metadatos Timed</string>
+	<key>twen</key>
+	<string>Interpolación</string>
+	<key>vide</key>
+	<string>Vídeo</string>
+	<key>vide1</key>
+	<string>Color indexado de 1 bit sin comprimir</string>
+	<key>vide16</key>
+	<string>RGB 555 de 16 bits sin comprimir (Big Endian)</string>
+	<key>vide2</key>
+	<string>Color indexado de 2 bits sin comprimir</string>
+	<key>vide24</key>
+	<string>RGB de 24 bits sin comprimir</string>
+	<key>vide24BG</key>
+	<string>BGR de 24 bits sin comprimir</string>
+	<key>vide2vuy</key>
+	<string>Componente Y'CbCr de 8 bits 4:2:2 ordenado Cb Y'0 Cr Y'1</string>
+	<key>vide32</key>
+	<string>ARGB de 32 bits sin comprimir</string>
+	<key>vide33</key>
+	<string>Escala de gris de 1 bit sin comprimir</string>
+	<key>vide34</key>
+	<string>Escala de gris de 2 bits sin comprimir</string>
+	<key>vide36</key>
+	<string>Escala de gris de 4 bits sin comprimir</string>
+	<key>vide4</key>
+	<string>Color indexado de 4 bits sin comprimir</string>
+	<key>vide40</key>
+	<string>Escala de gris de 8 bits sin comprimir</string>
+	<key>vide5551</key>
+	<string>RGB 5551 de 16 bits sin comprimir (Little Endian)</string>
+	<key>vide8</key>
+	<string>Color indexado de 8 bits sin comprimir</string>
+	<key>vide8BPS</key>
+	<string>Planar RGB</string>
+	<key>videABGR</key>
+	<string>ABGR de 32 bits sin comprimir</string>
+	<key>videACTL</key>
+	<string>Streambox ACT-L2</string>
+	<key>videAVdh</key>
+	<string>Avid DNxHR</string>
+	<key>videAVdn</key>
+	<string>Avid DNxHD</string>
+	<key>videB565</key>
+	<string>RGB 565 de 16 bits sin comprimir (Big Endian)</string>
+	<key>videBGRA</key>
+	<string>BGRA de 32 bits sin comprimir</string>
+	<key>videEIDI</key>
+	<string>EIDI</string>
+	<key>videIV41</key>
+	<string>Vídeo Intel Indeo™ 4.3</string>
+	<key>videIV50</key>
+	<string>Vídeo Indeo™ 5.1</string>
+	<key>videJvt3</key>
+	<string>Apple H.264/AVC Video (Previsualización)</string>
+	<key>videL555</key>
+	<string>RGB 555 de 16 bits sin comprimir (Little Endian)</string>
+	<key>videL565</key>
+	<string>RGB 565 de 16 bits sin comprimir (Little Endian)</string>
+	<key>videRGBA</key>
+	<string>RGBA de 32 bits sin comprimir</string>
+	<key>videSVQ1</key>
+	<string>Sorenson Video</string>
+	<key>videSVQ3</key>
+	<string>Sorenson Video 3</string>
+	<key>videVP31</key>
+	<string>Vídeo On2 VP3 3.2</string>
+	<key>videa2vy</key>
+	<string>Componente de dos planos Y'CbCr,A de 8 bits 4:2:2,4</string>
+	<key>videai12</key>
+	<string>AVC-Intra 100 1080p50/25</string>
+	<key>videai13</key>
+	<string>AVC-Intra 100 1080p60/30/24</string>
+	<key>videai15</key>
+	<string>AVC-Intra 100 1080i50</string>
+	<key>videai16</key>
+	<string>AVC-Intra 100 1080i60</string>
+	<key>videai1p</key>
+	<string>AVC-Intra 100 720p60/30/24</string>
+	<key>videai1q</key>
+	<string>AVC-Intra 100 720p50/25</string>
+	<key>videai22</key>
+	<string>AVC-Intra 200 1080p50/25</string>
+	<key>videai23</key>
+	<string>AVC-Intra 200 1080p60/30/24</string>
+	<key>videai25</key>
+	<string>AVC-Intra 200 1080i50</string>
+	<key>videai26</key>
+	<string>AVC-Intra 200 1080i60</string>
+	<key>videai2p</key>
+	<string>AVC-Intra 200 720p60/30/24</string>
+	<key>videai2q</key>
+	<string>AVC-Intra 200 720p50/25</string>
+	<key>videai42</key>
+	<string>AVC-Intra 4:2:2</string>
+	<key>videai44</key>
+	<string>AVC-Intra 4:4:4</string>
+	<key>videai52</key>
+	<string>AVC-Intra 50 1080p50/25</string>
+	<key>videai53</key>
+	<string>AVC-Intra 50 1080p60/30/24</string>
+	<key>videai55</key>
+	<string>AVC-Intra 50 1080i50</string>
+	<key>videai56</key>
+	<string>AVC-Intra 50 1080i60</string>
+	<key>videai5p</key>
+	<string>AVC-Intra 50 720p60/30/24</string>
+	<key>videai5q</key>
+	<string>AVC-Intra 50 720p50/25</string>
+	<key>videailt</key>
+	<string>AVC-Intra LT</string>
+	<key>videaivx</key>
+	<string>XAVC Intra</string>
+	<key>videap4h</key>
+	<string>Apple ProRes 4444</string>
+	<key>videap4x</key>
+	<string>Apple ProRes 4444 XQ</string>
+	<key>videapch</key>
+	<string>Apple ProRes 422 HQ</string>
+	<key>videapcn</key>
+	<string>Apple ProRes 422</string>
+	<key>videapco</key>
+	<string>Apple ProRes 422 Proxy</string>
+	<key>videapcs</key>
+	<string>Apple ProRes 422 LT</string>
+	<key>videaprh</key>
+	<string>Apple ProRes RAW HQ</string>
+	<key>videaprn</key>
+	<string>Apple ProRes RAW</string>
+	<key>videavc1</key>
+	<string>H.264</string>
+	<key>videavc3</key>
+	<string>H.264 (Conjuntos de parámetros en corriente de bits)</string>
+	<key>videavlg</key>
+	<string>AVC-LongG</string>
+	<key>videavr </key>
+	<string>Motion JPEG AVR</string>
+	<key>videb16g</key>
+	<string>Escala de gris de 16 bits sin comprimir</string>
+	<key>videb32a</key>
+	<string>AlphaGray de 32 bits sin comprimir</string>
+	<key>videb48r</key>
+	<string>RGB de 48 bits sin comprimir</string>
+	<key>videb64a</key>
+	<string>ARGB de 64 bits sin comprimir</string>
+	<key>videbhiv</key>
+	<string>bhiv</string>
+	<key>videblur</key>
+	<string>Filtro de convolución</string>
+	<key>videcdh1</key>
+	<string>Dolby Vision HEVC (encriptado)</string>
+	<key>videclou</key>
+	<string>Nube</string>
+	<key>videcvid</key>
+	<string>Cinepak</string>
+	<key>videdmb1</key>
+	<string>Motion JPEG OpenDML</string>
+	<key>videdrmi</key>
+	<string>Contenidos AVC0</string>
+	<key>videdslv</key>
+	<string>Fundido</string>
+	<key>videdv5n</key>
+	<string>DVCPRO50 - NTSC</string>
+	<key>videdv5p</key>
+	<string>DVCPRO50 - PAL</string>
+	<key>videdvc </key>
+	<string>DV/DVCPRO - NTSC</string>
+	<key>videdvcp</key>
+	<string>DVC - PAL</string>
+	<key>videdvh1</key>
+	<string>Dolby Vision HEVC</string>
+	<key>videdvh2</key>
+	<string>DVCPRO HD (1080p25)</string>
+	<key>videdvh3</key>
+	<string>DVCPRO HD (1080p30)</string>
+	<key>videdvh5</key>
+	<string>DVCPRO HD (1080i50)</string>
+	<key>videdvh6</key>
+	<string>DVCPRO HD (1080i60)</string>
+	<key>videdvhp</key>
+	<string>DVCPRO HD (720p60)</string>
+	<key>videdvhq</key>
+	<string>DVCPRO HD (720p50)</string>
+	<key>videdvpp</key>
+	<string>DVCPRO - PAL</string>
+	<key>videembs</key>
+	<string>Filtro de convolución</string>
+	<key>videfire</key>
+	<string>Fuego</string>
+	<key>videfmns</key>
+	<string>Filtro de interferencias</string>
+	<key>videgenk</key>
+	<string>Filtro de convolución</string>
+	<key>videgif </key>
+	<string>GIF</string>
+	<key>videh261</key>
+	<string>H.261</string>
+	<key>videh263</key>
+	<string>H.263</string>
+	<key>videhe22</key>
+	<string>HEVC de 10 bits 4:2:2</string>
+	<key>videhev1</key>
+	<string>HEVC (Conjuntos de parámetros en corriente de bits)</string>
+	<key>videhvc1</key>
+	<string>HEVC</string>
+	<key>videicod</key>
+	<string>Apple Intermediate Codec</string>
+	<key>videjpeg</key>
+	<string>Photo - JPEG</string>
+	<key>videkpcd</key>
+	<string>Photo CD</string>
+	<key>vidematt</key>
+	<string>Gradación</string>
+	<key>videmjp2</key>
+	<string>JPEG 2000</string>
+	<key>videmjpa</key>
+	<string>Motion JPEG A</string>
+	<key>videmjpb</key>
+	<string>Motion JPEG B</string>
+	<key>videmp1v</key>
+	<string>Vídeo MPEG-1</string>
+	<key>videmp2v</key>
+	<string>Vídeo MPEG-2</string>
+	<key>videmp4v</key>
+	<string>Vídeo MPEG-4</string>
+	<key>videmplo</key>
+	<string>Implosión</string>
+	<key>videmuxa</key>
+	<string>HEVC con alfa</string>
+	<key>videmx3n</key>
+	<string>MPEG IMX 525/60 (30 Mb/s)</string>
+	<key>videmx3p</key>
+	<string>MPEG IMX 625/50 (30 Mb/s)</string>
+	<key>videmx4n</key>
+	<string>MPEG IMX 525/60 (40 Mb/s)</string>
+	<key>videmx4p</key>
+	<string>MPEG IMX 625/50 (40 Mb/s)</string>
+	<key>videmx5n</key>
+	<string>MPEG IMX 525/60 (50 Mb/s)</string>
+	<key>videmx5p</key>
+	<string>MPEG IMX 625/50 (50 Mb/s)</string>
+	<key>videpng </key>
+	<string>PNG</string>
+	<key>videpush</key>
+	<string>Arrastre</string>
+	<key>videpxlt</key>
+	<string>Apple Pixlet Video</string>
+	<key>videqdh1</key>
+	<string>Dolby Vision HEVC (protegido, MP4 fragmentado)</string>
+	<key>vider210</key>
+	<string>RGB de 10 bits sin comprimir</string>
+	<key>vider408</key>
+	<string>Componente Y'CbCrA de 8 bits 4:4:4:4 ordenado A Y' Cb Cr</string>
+	<key>viderle </key>
+	<string>Animación</string>
+	<key>viderpza</key>
+	<string>Vídeo</string>
+	<key>vides263</key>
+	<string>H.263</string>
+	<key>videshrp</key>
+	<string>Filtro de convolución</string>
+	<key>videslid</key>
+	<string>Arrastre</string>
+	<key>videsmc </key>
+	<string>Gráficos</string>
+	<key>videsmpt</key>
+	<string>Barrido</string>
+	<key>videsolr</key>
+	<string>Filtro de balance de colores</string>
+	<key>videtiff</key>
+	<string>TIFF</string>
+	<key>videtint</key>
+	<string>Filtro de balance de colores</string>
+	<key>videtrav</key>
+	<string>Máscara móvil</string>
+	<key>videv210</key>
+	<string>Componente Y'CbCr de 10 bits 4:2:2</string>
+	<key>videv216</key>
+	<string>Componente Y'CbCr de 10, 12, 14, 16 bits 4:2:2</string>
+	<key>videv308</key>
+	<string>Componente Y'CbCr de 8 bits 4:4:4</string>
+	<key>videv408</key>
+	<string>Componente Y'CbCrA de 8 bits 4:4:4:4 ordenado Cb Y' Cr A</string>
+	<key>videv410</key>
+	<string>Componente Y'CbCr de 10 bits 4:4:4</string>
+	<key>videxalg</key>
+	<string>XAVC Long GOP</string>
+	<key>videxf4a</key>
+	<string>XF-AVC Intra 4:4:4 10 bits</string>
+	<key>videxf4c</key>
+	<string>XF-AVC Intra 4:4:4 12 bits</string>
+	<key>videxfg8</key>
+	<string>XF-AVC Long GOP 4:2:2 8 bits</string>
+	<key>videxfga</key>
+	<string>XF-AVC Long GOP 4:2:2 10 bits</string>
+	<key>videxfi8</key>
+	<string>XF-AVC Intra 4:2:2 8 bits</string>
+	<key>videxfia</key>
+	<string>XF-AVC Intra 4:2:2 10 bits</string>
+	<key>videxplo</key>
+	<string>Implosión</string>
+	<key>videy420</key>
+	<string>Componente de tres planos Y'CbCr de 8 bits 4:2:0</string>
+	<key>videyuvs</key>
+	<string>Componente Y'CbCr de 8 bits 4:2:2 ordenado Y'0 Cb Y'1 Cr</string>
+	<key>videzygo</key>
+	<string>ZyGoVideo</string>
+</dict>
+</plist>

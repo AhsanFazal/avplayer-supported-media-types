@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capture_diagnostic_preset</key>
+	<dict>
+		<key>livesource_trace</key>
+		<integer>2</integer>
+		<key>recorder_trace</key>
+		<integer>2</integer>
+		<key>recorderserver_trace</key>
+		<integer>2</integer>
+	</dict>
+	<key>export_diagnostic_preset</key>
+	<dict>
+		<key>mixer_trace</key>
+		<integer>1</integer>
+		<key>remaker_trace</key>
+		<integer>1</integer>
+	</dict>
+	<key>network_playback_diagnostic_preset</key>
+	<dict>
+		<key>cfbyteflume_trace</key>
+		<integer>1</integer>
+		<key>crabs_trace</key>
+		<integer>1</integer>
+		<key>httprequest_trace</key>
+		<integer>1</integer>
+		<key>playmon_trace</key>
+		<integer>2</integer>
+	</dict>
+	<key>playback_diagnostic_preset</key>
+	<dict>
+		<key>cmsession_trace</key>
+		<integer>127</integer>
+		<key>faq_trace</key>
+		<integer>1</integer>
+		<key>fp_trace</key>
+		<integer>2</integer>
+		<key>stream_trace</key>
+		<integer>1</integer>
+		<key>urlasset_trace</key>
+		<integer>1</integer>
+	</dict>
+	<key>streaming_diagnostic_preset</key>
+	<dict>
+		<key>DiskCacheRepository</key>
+		<integer>1</integer>
+		<key>crabs_trace</key>
+		<integer>1</integer>
+		<key>fhttpchunk_alt_trace</key>
+		<integer>1</integer>
+		<key>fhttpchunk_trace</key>
+		<integer>1</integer>
+		<key>fp_trace</key>
+		<integer>1</integer>
+		<key>playmon_trace</key>
+		<integer>2</integer>
+		<key>stream_trace</key>
+		<integer>1</integer>
+		<key>urlasset_trace</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

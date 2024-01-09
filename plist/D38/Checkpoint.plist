@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CheckpointHEVCAdditions</key>
+	<dict>
+		<key>VideoCodecs</key>
+		<array>
+			<string>HEVC4096p120-10Bit</string>
+			<string>HEVC4096p120-10Bit-2</string>
+			<string>HEVC8192p30-10Bit</string>
+		</array>
+	</dict>
+	<key>CheckpointProResAdditions</key>
+	<dict>
+		<key>VideoCodecs</key>
+		<array>
+			<string>AppleProRes4444XQ</string>
+			<string>AppleProRes4444</string>
+			<string>AppleProRes422</string>
+			<string>AppleProRes422HQ</string>
+			<string>AppleProRes422LT</string>
+			<string>AppleProRes422Proxy</string>
+		</array>
+	</dict>
+</dict>
+</plist>

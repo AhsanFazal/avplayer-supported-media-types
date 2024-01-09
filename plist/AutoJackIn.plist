@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoJackInOnCategoryChange</key>
+	<dict>
+		<key>PhoneCall</key>
+		<array>
+			<dict>
+				<key>OnlyFirstTimeAfterConnection</key>
+				<true/>
+				<key>Route</key>
+				<string>HeadsetBT</string>
+			</dict>
+		</array>
+		<key>Voicemail</key>
+		<array>
+			<dict>
+				<key>OnlyFirstTimeAfterConnection</key>
+				<true/>
+				<key>Route</key>
+				<string>HeadsetBT</string>
+			</dict>
+		</array>
+	</dict>
+	<key>AutoJackInOnConnection</key>
+	<dict>
+		<key>HeadsetBT</key>
+		<array>
+			<string>PhoneCall</string>
+			<string>Voicemail</string>
+		</array>
+	</dict>
+	<key>not yet implemented: AutoJackInOnConnectionToDeviceThatWasDisconnectedWhileBeingRoutedTo_SecondsAgo</key>
+	<dict>
+		<key>HeadphonesBT</key>
+		<integer>300</integer>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VideoDynamicRangeDolbyVision</key>
+	<string>Dolby Vision 5</string>
+	<key>VideoDynamicRangeDolbyVision8p4</key>
+	<string>Dolby Vision 8.4</string>
+	<key>VideoDynamicRangeHDR10</key>
+	<string>HDR10</string>
+	<key>VideoDynamicRangeHLG</key>
+	<string>HLG</string>
+	<key>VideoDynamicRangeSDR</key>
+	<string>SDR</string>
+	<key>VideoDynamicRangeUnknown</key>
+	<string>알 수 없음</string>
+	<key>clcp</key>
+	<string>청각 장애인용 자막</string>
+	<key>clcpatcc</key>
+	<string>ATSC/52 파트-4</string>
+	<key>clcpc608</key>
+	<string>CEA 608</string>
+	<key>clcpc708</key>
+	<string>CEA 708</string>
+	<key>hintrtp </key>
+	<string>힌트</string>
+	<key>meta</key>
+	<string>메타데이터</string>
+	<key>metamebx</key>
+	<string>타임드 메타데이터</string>
+	<key>musimusi</key>
+	<string>음악</string>
+	<key>muxx</key>
+	<string>멀티플렉스됨</string>
+	<key>obje</key>
+	<string>QTVR 대상체</string>
+	<key>odsm</key>
+	<string>MPEG-4 ODSM</string>
+	<key>odsmmp4s</key>
+	<string>MPEG-4 ODSM</string>
+	<key>pano</key>
+	<string>VR 파노라마</string>
+	<key>qtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtvrqtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtz </key>
+	<string>Quartz Composer</string>
+	<key>qtz qtz </key>
+	<string>Quartz Composer</string>
+	<key>sbtl</key>
+	<string>자막</string>
+	<key>sbtldrmt</key>
+	<string>자막</string>
+	<key>sbtltx3g</key>
+	<string>자막</string>
+	<key>sdsm</key>
+	<string>MPEG-4 SDSM</string>
+	<key>sdsmmp4s</key>
+	<string>MPEG-4 SDSM</string>
+	<key>skin</key>
+	<string>스킨</string>
+	<key>skinskcr</key>
+	<string>스킨</string>
+	<key>skinskdr</key>
+	<string>스킨</string>
+	<key>soun</key>
+	<string>사운드</string>
+	<key>sounalac</key>
+	<string>Apple Lossless</string>
+	<key>sounclac</key>
+	<string>Apple Lossless(암호화됨)</string>
+	<key>sounpaac</key>
+	<string>AAC(보호됨)</string>
+	<key>sounpac3</key>
+	<string>AC-3 Dolby Digital(보호됨)</string>
+	<key>sounpach</key>
+	<string>HE-AACv1(보호됨)</string>
+	<key>sounpacp</key>
+	<string>HE-AACv2(보호됨)</string>
+	<key>sounpc+3</key>
+	<string>Dolby Atmos(보호됨)</string>
+	<key>sounpec3</key>
+	<string>EC-3 Dolby Digital+(보호됨)</string>
+	<key>sounqaac</key>
+	<string>AAC(보호됨, 분할된 MP4)</string>
+	<key>sounqac3</key>
+	<string>AC-3 Dolby Digital(보호됨, 분할된 MP4)</string>
+	<key>sounqach</key>
+	<string>HE-AACv1(보호됨, 분할된 MP4)</string>
+	<key>sounqacp</key>
+	<string>HE-AACv2(보호됨, 분할된 MP4)</string>
+	<key>sounqc+3</key>
+	<string>Dolby Atmos(보호됨, 분할된 MP4)</string>
+	<key>sounqec3</key>
+	<string>EC-3 Dolby Digital+(보호됨, 분할된 MP4)</string>
+	<key>sounqlac</key>
+	<string>Apple Lossless(보호됨, 분할된 MP4)</string>
+	<key>sounvdva</key>
+	<string>DV</string>
+	<key>sounzaac</key>
+	<string>AAC(보호됨, 전송 스트림)</string>
+	<key>sounzac3</key>
+	<string>AC-3 Dolby Digital(보호됨, 전송 스트림)</string>
+	<key>sounzach</key>
+	<string>HE-AACv1(보호됨, 전송 스트림)</string>
+	<key>sounzacp</key>
+	<string>HE-AACv2(보호됨, 전송 스트림)</string>
+	<key>sounzc+3</key>
+	<string>Dolby Atmos(보호됨, 전송 스트림)</string>
+	<key>sounzec3</key>
+	<string>EC-3 Dolby Digital+(보호됨, 전송 스트림)</string>
+	<key>sounzlac</key>
+	<string>Apple Lossless(보호됨, 전송 스트림)</string>
+	<key>sprt</key>
+	<string>스프라이트</string>
+	<key>strm</key>
+	<string>스트리밍</string>
+	<key>strmrtsp</key>
+	<string>스트리밍</string>
+	<key>text</key>
+	<string>텍스트</string>
+	<key>texttext</key>
+	<string>QuickTime 텍스트</string>
+	<key>texttx3g</key>
+	<string>3GPP 텍스트</string>
+	<key>tmcd</key>
+	<string>타임 코드</string>
+	<key>tmcdtmcd</key>
+	<string>타임 코드</string>
+	<key>tmet</key>
+	<string>타임드 메타데이터</string>
+	<key>twen</key>
+	<string>Tween</string>
+	<key>vide</key>
+	<string>비디오</string>
+	<key>vide1</key>
+	<string>비압축 1비트 인덱스 색상</string>
+	<key>vide16</key>
+	<string>비압축 16비트 RGB 555(빅 엔디안)</string>
+	<key>vide2</key>
+	<string>비압축 2비트 인덱스 색상</string>
+	<key>vide24</key>
+	<string>비압축 24비트 RGB</string>
+	<key>vide24BG</key>
+	<string>비압축 24비트 BGR</string>
+	<key>vide2vuy</key>
+	<string>Cb Y'0 Cr Y'1로 정렬된 Y'CbCr 8비트 4:2:2 컴포넌트</string>
+	<key>vide32</key>
+	<string>비압축 32비트 ARGB</string>
+	<key>vide33</key>
+	<string>비압축 1비트 그레이 스케일</string>
+	<key>vide34</key>
+	<string>비압축 2비트 그레이 스케일</string>
+	<key>vide36</key>
+	<string>비압축 4비트 그레이 스케일</string>
+	<key>vide4</key>
+	<string>비압축 4비트 인덱스 색상</string>
+	<key>vide40</key>
+	<string>비압축 8비트 그레이 스케일</string>
+	<key>vide5551</key>
+	<string>비압축 16비트 RGB 5551(리틀 엔디안)</string>
+	<key>vide8</key>
+	<string>비압축 8비트 인덱스 색상</string>
+	<key>vide8BPS</key>
+	<string>Planar RGB</string>
+	<key>videABGR</key>
+	<string>비압축 32비트 ABGR</string>
+	<key>videACTL</key>
+	<string>Streambox ACT-L2</string>
+	<key>videAVdh</key>
+	<string>Avid DNxHR</string>
+	<key>videAVdn</key>
+	<string>Avid DNxHD</string>
+	<key>videB565</key>
+	<string>비압축 16비트 RGB 565(빅 엔디안)</string>
+	<key>videBGRA</key>
+	<string>비압축 32비트 BGRA</string>
+	<key>videEIDI</key>
+	<string>EIDI</string>
+	<key>videIV41</key>
+	<string>Intel Indeo™ Video 4.3</string>
+	<key>videIV50</key>
+	<string>Indeo™ video 5.1</string>
+	<key>videJvt3</key>
+	<string>Apple H.264/AVC 비디오(미리보기)</string>
+	<key>videL555</key>
+	<string>비압축 16비트 RGB 555(리틀 엔디안)</string>
+	<key>videL565</key>
+	<string>비압축 16비트 RGB 565(리틀 엔디안)</string>
+	<key>videRGBA</key>
+	<string>비압축 32비트 RGBA</string>
+	<key>videSVQ1</key>
+	<string>Sorenson Video</string>
+	<key>videSVQ3</key>
+	<string>Sorenson Video 3</string>
+	<key>videVP31</key>
+	<string>On2 VP3 비디오 3.2</string>
+	<key>videa2vy</key>
+	<string>Y'CbCr,A 8비트 4:2:2,4 2면 컴포넌트</string>
+	<key>videai12</key>
+	<string>AVC-Intra 100 1080p50/25</string>
+	<key>videai13</key>
+	<string>AVC-Intra 100 1080p60/30/24</string>
+	<key>videai15</key>
+	<string>AVC-Intra 100 1080i50</string>
+	<key>videai16</key>
+	<string>AVC-Intra 100 1080i60</string>
+	<key>videai1p</key>
+	<string>AVC-Intra 100 720p60/30/24</string>
+	<key>videai1q</key>
+	<string>AVC-Intra 100 720p50/25</string>
+	<key>videai22</key>
+	<string>AVC-Intra 200 1080p50/25</string>
+	<key>videai23</key>
+	<string>AVC-Intra 200 1080p60/30/24</string>
+	<key>videai25</key>
+	<string>AVC-Intra 200 1080i50</string>
+	<key>videai26</key>
+	<string>AVC-Intra 200 1080i60</string>
+	<key>videai2p</key>
+	<string>AVC-Intra 200 720p60/30/24</string>
+	<key>videai2q</key>
+	<string>AVC-Intra 200 720p50/25</string>
+	<key>videai42</key>
+	<string>AVC-Intra 4:2:2</string>
+	<key>videai44</key>
+	<string>AVC-Intra 4:4:4</string>
+	<key>videai52</key>
+	<string>AVC-Intra 50 1080p50/25</string>
+	<key>videai53</key>
+	<string>AVC-Intra 50 1080p60/30/24</string>
+	<key>videai55</key>
+	<string>AVC-Intra 50 1080i50</string>
+	<key>videai56</key>
+	<string>AVC-Intra 50 1080i60</string>
+	<key>videai5p</key>
+	<string>AVC-Intra 50 720p60/30/24</string>
+	<key>videai5q</key>
+	<string>AVC-Intra 50 720p50/25</string>
+	<key>videailt</key>
+	<string>AVC-Intra LT</string>
+	<key>videaivx</key>
+	<string>XAVC Intra</string>
+	<key>videap4h</key>
+	<string>Apple ProRes 4444</string>
+	<key>videap4x</key>
+	<string>Apple ProRes 4444 XQ</string>
+	<key>videapch</key>
+	<string>Apple ProRes 422 HQ</string>
+	<key>videapcn</key>
+	<string>Apple ProRes 422</string>
+	<key>videapco</key>
+	<string>Apple ProRes 422 프록시</string>
+	<key>videapcs</key>
+	<string>Apple ProRes 422 LT</string>
+	<key>videaprh</key>
+	<string>Apple ProRes RAW HQ</string>
+	<key>videaprn</key>
+	<string>Apple ProRes RAW</string>
+	<key>videavc1</key>
+	<string>H.264</string>
+	<key>videavc3</key>
+	<string>H.264(매개변수 세트 위치: 비트스트림)</string>
+	<key>videavlg</key>
+	<string>AVC-LongG</string>
+	<key>videavr </key>
+	<string>Motion JPEG AVR</string>
+	<key>videb16g</key>
+	<string>비압축 16비트 그레이 스케일</string>
+	<key>videb32a</key>
+	<string>비압축 32비트 알파 그레이</string>
+	<key>videb48r</key>
+	<string>비압축 48비트 RGB</string>
+	<key>videb64a</key>
+	<string>비압축 64비트 ARGB</string>
+	<key>videbhiv</key>
+	<string>bhiv</string>
+	<key>videblur</key>
+	<string>회선 필터</string>
+	<key>videcdh1</key>
+	<string>Dolby Vision HEVC(암호화됨)</string>
+	<key>videclou</key>
+	<string>구름 효과</string>
+	<key>videcvid</key>
+	<string>Cinepak</string>
+	<key>videdmb1</key>
+	<string>Motion JPEG OpenDML</string>
+	<key>videdrmi</key>
+	<string>AVC0 미디어</string>
+	<key>videdslv</key>
+	<string>교차 페이드</string>
+	<key>videdv5n</key>
+	<string>DVCPRO50 - NTSC</string>
+	<key>videdv5p</key>
+	<string>DVCPRO50 - PAL</string>
+	<key>videdvc </key>
+	<string>DV/DVCPRO - NTSC</string>
+	<key>videdvcp</key>
+	<string>DVC - PAL</string>
+	<key>videdvh1</key>
+	<string>Dolby Vision HEVC</string>
+	<key>videdvh2</key>
+	<string>DVCPRO HD(1080p25)</string>
+	<key>videdvh3</key>
+	<string>DVCPRO HD(1080p30)</string>
+	<key>videdvh5</key>
+	<string>DVCPRO HD(1080i50)</string>
+	<key>videdvh6</key>
+	<string>DVCPRO HD(1080i60)</string>
+	<key>videdvhp</key>
+	<string>DVCPRO HD(720p60)</string>
+	<key>videdvhq</key>
+	<string>DVCPRO HD(720p50)</string>
+	<key>videdvpp</key>
+	<string>DVCPRO - PAL</string>
+	<key>videembs</key>
+	<string>회선 필터</string>
+	<key>videfire</key>
+	<string>화염 효과</string>
+	<key>videfmns</key>
+	<string>필름 노이즈 필터</string>
+	<key>videgenk</key>
+	<string>회선 필터</string>
+	<key>videgif </key>
+	<string>GIF</string>
+	<key>videh261</key>
+	<string>H.261</string>
+	<key>videh263</key>
+	<string>H.263</string>
+	<key>videhe22</key>
+	<string>HEVC 10비트 4:2:2</string>
+	<key>videhev1</key>
+	<string>HEVC(매개변수 세트 위치: 비트스트림)</string>
+	<key>videhvc1</key>
+	<string>HEVC</string>
+	<key>videicod</key>
+	<string>Apple Intermediate Codec</string>
+	<key>videjpeg</key>
+	<string>포토 - JPEG</string>
+	<key>videkpcd</key>
+	<string>포토 CD</string>
+	<key>vidematt</key>
+	<string>그라디언트 와이프 효과</string>
+	<key>videmjp2</key>
+	<string>JPEG 2000</string>
+	<key>videmjpa</key>
+	<string>Motion JPEG A</string>
+	<key>videmjpb</key>
+	<string>Motion JPEG B</string>
+	<key>videmp1v</key>
+	<string>MPEG-1 비디오</string>
+	<key>videmp2v</key>
+	<string>MPEG-2 비디오</string>
+	<key>videmp4v</key>
+	<string>MPEG-4 비디오</string>
+	<key>videmplo</key>
+	<string>내파 효과</string>
+	<key>videmuxa</key>
+	<string>HEVC(알파)</string>
+	<key>videmx3n</key>
+	<string>MPEG IMX 525/60(30Mb/초)</string>
+	<key>videmx3p</key>
+	<string>MPEG IMX 625/50(30Mb/초)</string>
+	<key>videmx4n</key>
+	<string>MPEG IMX 525/60(40Mb/초)</string>
+	<key>videmx4p</key>
+	<string>MPEG IMX 625/50(40Mb/초)</string>
+	<key>videmx5n</key>
+	<string>MPEG IMX 525/60(50Mb/초)</string>
+	<key>videmx5p</key>
+	<string>MPEG IMX 625/50(50Mb/초)</string>
+	<key>videpng </key>
+	<string>PNG</string>
+	<key>videpush</key>
+	<string>밀어내기 효과</string>
+	<key>videpxlt</key>
+	<string>Apple Pixlet 비디오</string>
+	<key>videqdh1</key>
+	<string>Dolby Vision HEVC(보호됨, 분할된 MP4)</string>
+	<key>vider210</key>
+	<string>비압축 10비트 RGB</string>
+	<key>vider408</key>
+	<string>A Y' Cb Cr로 정렬된 Y'CbCrA 8비트 4:4:4:4 컴포넌트</string>
+	<key>viderle </key>
+	<string>애니메이션</string>
+	<key>viderpza</key>
+	<string>비디오</string>
+	<key>vides263</key>
+	<string>H.263</string>
+	<key>videshrp</key>
+	<string>회선 필터</string>
+	<key>videslid</key>
+	<string>밀어내기 효과</string>
+	<key>videsmc </key>
+	<string>그래픽</string>
+	<key>videsmpt</key>
+	<string>닦아내기 효과</string>
+	<key>videsolr</key>
+	<string>색상 균형 필터</string>
+	<key>videtiff</key>
+	<string>TIFF</string>
+	<key>videtint</key>
+	<string>색상 균형 필터</string>
+	<key>videtrav</key>
+	<string>트래블링 매트</string>
+	<key>videv210</key>
+	<string>Y'CbCr 10비트 4:2:2 컴포넌트</string>
+	<key>videv216</key>
+	<string>Y'CbCr 10,12,14,16비트 4:2:2 컴포넌트</string>
+	<key>videv308</key>
+	<string>Y'CbCr 8비트 4:4:4 컴포넌트</string>
+	<key>videv408</key>
+	<string>Cb Y' Cr A로 정렬된 Y'CbCrA 8비트 4:4:4:4 컴포넌트</string>
+	<key>videv410</key>
+	<string>Y'CbCr 10비트 4:4:4 컴포넌트</string>
+	<key>videxalg</key>
+	<string>XAVC Long GOP</string>
+	<key>videxf4a</key>
+	<string>XF-AVC Intra 4:4:4 10비트</string>
+	<key>videxf4c</key>
+	<string>XF-AVC Intra 4:4:4 12비트</string>
+	<key>videxfg8</key>
+	<string>XF-AVC Long GOP 4:2:2 8비트</string>
+	<key>videxfga</key>
+	<string>XF-AVC Long GOP 4:2:2 10비트</string>
+	<key>videxfi8</key>
+	<string>XF-AVC Intra 4:2:2 8비트</string>
+	<key>videxfia</key>
+	<string>XF-AVC Intra 4:2:2 10비트</string>
+	<key>videxplo</key>
+	<string>내파 효과</string>
+	<key>videy420</key>
+	<string>Y'CbCr 8비트 4:2:0 3면 컴포넌트</string>
+	<key>videyuvs</key>
+	<string>Y'0 Cb Y'1 Cr로 정렬된 Y'CbCr 8비트 4:2:2 컴포넌트</string>
+	<key>videzygo</key>
+	<string>ZyGoVideo</string>
+</dict>
+</plist>

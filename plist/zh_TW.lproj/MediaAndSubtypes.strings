@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VideoDynamicRangeDolbyVision</key>
+	<string>杜比視界5</string>
+	<key>VideoDynamicRangeDolbyVision8p4</key>
+	<string>杜比視界8.4</string>
+	<key>VideoDynamicRangeHDR10</key>
+	<string>HDR10</string>
+	<key>VideoDynamicRangeHLG</key>
+	<string>HLG</string>
+	<key>VideoDynamicRangeSDR</key>
+	<string>SDR</string>
+	<key>VideoDynamicRangeUnknown</key>
+	<string>未知</string>
+	<key>clcp</key>
+	<string>隱藏式字幕</string>
+	<key>clcpatcc</key>
+	<string>ATSC/52 part-4</string>
+	<key>clcpc608</key>
+	<string>CEA 608</string>
+	<key>clcpc708</key>
+	<string>CEA 708</string>
+	<key>hintrtp </key>
+	<string>分封指示</string>
+	<key>meta</key>
+	<string>後設資料</string>
+	<key>metamebx</key>
+	<string>計時後設資料</string>
+	<key>musimusi</key>
+	<string>音樂</string>
+	<key>muxx</key>
+	<string>混合</string>
+	<key>obje</key>
+	<string>QTVR物件</string>
+	<key>odsm</key>
+	<string>MPEG-4 ODSM </string>
+	<key>odsmmp4s</key>
+	<string>MPEG-4 ODSM </string>
+	<key>pano</key>
+	<string>VR全景</string>
+	<key>qtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtvrqtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtz </key>
+	<string>Quartz Composer</string>
+	<key>qtz qtz </key>
+	<string>Quartz Composer</string>
+	<key>sbtl</key>
+	<string>字幕</string>
+	<key>sbtldrmt</key>
+	<string>字幕</string>
+	<key>sbtltx3g</key>
+	<string>字幕</string>
+	<key>sdsm</key>
+	<string>MPEG-4 SDSM</string>
+	<key>sdsmmp4s</key>
+	<string>MPEG-4 SDSM</string>
+	<key>skin</key>
+	<string>外觀介面</string>
+	<key>skinskcr</key>
+	<string>外觀介面</string>
+	<key>skinskdr</key>
+	<string>外觀介面</string>
+	<key>soun</key>
+	<string>聲音</string>
+	<key>sounalac</key>
+	<string>Apple保真壓縮</string>
+	<key>sounclac</key>
+	<string>Apple保真壓縮（已加密）</string>
+	<key>sounpaac</key>
+	<string>AAC（版權保護）</string>
+	<key>sounpac3</key>
+	<string>AC-3杜比數位（版權保護）</string>
+	<key>sounpach</key>
+	<string>HE-AACv1（版權保護）</string>
+	<key>sounpacp</key>
+	<string>HE-AACv2（版權保護）</string>
+	<key>sounpc+3</key>
+	<string>杜比全景聲（版權保護）</string>
+	<key>sounpec3</key>
+	<string>EC-3杜比數位+（版權保護）</string>
+	<key>sounqaac</key>
+	<string>AAC（版權保護、分散式MP4）</string>
+	<key>sounqac3</key>
+	<string>AC-3杜比數位（版權保護、分散式MP4）</string>
+	<key>sounqach</key>
+	<string>HE-AACv1（版權保護、分散式MP4）</string>
+	<key>sounqacp</key>
+	<string>HE-AACv2（版權保護、分散式MP4）</string>
+	<key>sounqc+3</key>
+	<string>杜比全景聲（版權保護、分散式MP4）</string>
+	<key>sounqec3</key>
+	<string>EC-3杜比數位+（版權保護、分散式MP4）</string>
+	<key>sounqlac</key>
+	<string>Apple保真壓縮（版權保護、分散式MP4）</string>
+	<key>sounvdva</key>
+	<string>DV</string>
+	<key>sounzaac</key>
+	<string>AAC（版權保護、傳輸串流）</string>
+	<key>sounzac3</key>
+	<string>AC-3杜比數位（版權保護、傳輸串流）</string>
+	<key>sounzach</key>
+	<string>HE-AACv1（版權保護、傳輸串流）</string>
+	<key>sounzacp</key>
+	<string>HE-AACv2（版權保護、傳輸串流）</string>
+	<key>sounzc+3</key>
+	<string>杜比全景聲（版權保護、傳輸串流）</string>
+	<key>sounzec3</key>
+	<string>EC-3杜比數位+（版權保護、傳輸串流）</string>
+	<key>sounzlac</key>
+	<string>Apple保真壓縮（版權保護、傳輸串流）</string>
+	<key>sprt</key>
+	<string>動畫拼合</string>
+	<key>strm</key>
+	<string>串流</string>
+	<key>strmrtsp</key>
+	<string>串流</string>
+	<key>text</key>
+	<string>文字</string>
+	<key>texttext</key>
+	<string>QuickTime文字</string>
+	<key>texttx3g</key>
+	<string>3GPP文字</string>
+	<key>tmcd</key>
+	<string>時間碼</string>
+	<key>tmcdtmcd</key>
+	<string>時間碼</string>
+	<key>tmet</key>
+	<string>計時後設資料</string>
+	<key>twen</key>
+	<string>軌跡動作</string>
+	<key>vide</key>
+	<string>影片</string>
+	<key>vide1</key>
+	<string>未壓縮1位元索引色</string>
+	<key>vide16</key>
+	<string>未壓縮16位元RGB 555（高位元排序）</string>
+	<key>vide2</key>
+	<string>未壓縮2位元索引色</string>
+	<key>vide24</key>
+	<string>未壓縮24位元RGB</string>
+	<key>vide24BG</key>
+	<string>未壓縮24位元BGR</string>
+	<key>vide2vuy</key>
+	<string>色差端子Y'CbCr 8位元4:2:2順序Cb Y'0 Cr Y'1</string>
+	<key>vide32</key>
+	<string>未壓縮32位元ARGB</string>
+	<key>vide33</key>
+	<string>未壓縮1位元灰階</string>
+	<key>vide34</key>
+	<string>未壓縮2位元灰階</string>
+	<key>vide36</key>
+	<string>未壓縮4位元灰階</string>
+	<key>vide4</key>
+	<string>未壓縮4位元索引色</string>
+	<key>vide40</key>
+	<string>未壓縮8位元灰階</string>
+	<key>vide5551</key>
+	<string>未壓縮16位元RGB 5551（低位元排序）</string>
+	<key>vide8</key>
+	<string>未壓縮8位元索引色</string>
+	<key>vide8BPS</key>
+	<string>Planar RGB</string>
+	<key>videABGR</key>
+	<string>未壓縮32位元ABGR</string>
+	<key>videACTL</key>
+	<string>Streambox ACT-L2</string>
+	<key>videAVdh</key>
+	<string>Avid DNxHR</string>
+	<key>videAVdn</key>
+	<string>Avid DNxHD</string>
+	<key>videB565</key>
+	<string>未壓縮16位元RGB 565（高位元排序）</string>
+	<key>videBGRA</key>
+	<string>未壓縮32位元BGRA</string>
+	<key>videEIDI</key>
+	<string>EIDI</string>
+	<key>videIV41</key>
+	<string>Intel Indeo™ Video 4.3</string>
+	<key>videIV50</key>
+	<string>Indeo™ video 5.1</string>
+	<key>videJvt3</key>
+	<string>Apple H.264/AVC影片（預覽）</string>
+	<key>videL555</key>
+	<string>未壓縮16位元RGB 555（低位元排序）</string>
+	<key>videL565</key>
+	<string>未壓縮16位元RGB 565（低位元排序）</string>
+	<key>videRGBA</key>
+	<string>未壓縮32位元RGBA</string>
+	<key>videSVQ1</key>
+	<string>Sorenson Video</string>
+	<key>videSVQ3</key>
+	<string>Sorenson Video 3</string>
+	<key>videVP31</key>
+	<string>On2 VP3 Video 3.2</string>
+	<key>videa2vy</key>
+	<string>雙平面色差端子Y'CbCr,A 8位元4:2:2,4</string>
+	<key>videai12</key>
+	<string>AVC-Intra 100 1080p50/25</string>
+	<key>videai13</key>
+	<string>AVC-Intra 100 1080p60/30/24</string>
+	<key>videai15</key>
+	<string>AVC-Intra 100 1080i50</string>
+	<key>videai16</key>
+	<string>AVC-Intra 100 1080i60</string>
+	<key>videai1p</key>
+	<string>AVC-Intra 100 720p60/30/24</string>
+	<key>videai1q</key>
+	<string>AVC-Intra 100 720p50/25</string>
+	<key>videai22</key>
+	<string>AVC-Intra 200 1080p50/25</string>
+	<key>videai23</key>
+	<string>AVC-Intra 200 1080p60/30/24</string>
+	<key>videai25</key>
+	<string>AVC-Intra 200 1080i50</string>
+	<key>videai26</key>
+	<string>AVC-Intra 200 1080i60</string>
+	<key>videai2p</key>
+	<string>AVC-Intra 200 720p60/30/24</string>
+	<key>videai2q</key>
+	<string>AVC-Intra 200 720p50/25</string>
+	<key>videai42</key>
+	<string>AVC-Intra 4:2:2</string>
+	<key>videai44</key>
+	<string>AVC-Intra 4:4:4</string>
+	<key>videai52</key>
+	<string>AVC-Intra 50 1080p50/25</string>
+	<key>videai53</key>
+	<string>AVC-Intra 50 1080p60/30/24</string>
+	<key>videai55</key>
+	<string>AVC-Intra 50 1080i50</string>
+	<key>videai56</key>
+	<string>AVC-Intra 50 1080i60</string>
+	<key>videai5p</key>
+	<string>AVC-Intra 50 720p60/30/24</string>
+	<key>videai5q</key>
+	<string>AVC-Intra 50 720p50/25</string>
+	<key>videailt</key>
+	<string>AVC-Intra LT</string>
+	<key>videaivx</key>
+	<string>XAVC Intra</string>
+	<key>videap4h</key>
+	<string>Apple ProRes 4444</string>
+	<key>videap4x</key>
+	<string>Apple ProRes 4444 XQ</string>
+	<key>videapch</key>
+	<string>Apple ProRes 422 HQ</string>
+	<key>videapcn</key>
+	<string>Apple ProRes 422</string>
+	<key>videapco</key>
+	<string>Apple ProRes 422代理伺服器</string>
+	<key>videapcs</key>
+	<string>Apple ProRes 422 LT</string>
+	<key>videaprh</key>
+	<string>Apple ProRes RAW HQ</string>
+	<key>videaprn</key>
+	<string>Apple ProRes RAW</string>
+	<key>videavc1</key>
+	<string>H.264</string>
+	<key>videavc3</key>
+	<string>H.264（位元串流參數組）</string>
+	<key>videavlg</key>
+	<string>AVC-LongG</string>
+	<key>videavr </key>
+	<string>Motion JPEG AVR</string>
+	<key>videb16g</key>
+	<string>未壓縮16位元灰階</string>
+	<key>videb32a</key>
+	<string>未壓縮32位元AlphaGray</string>
+	<key>videb48r</key>
+	<string>未壓縮48位元RGB</string>
+	<key>videb64a</key>
+	<string>未壓縮64位元ARGB</string>
+	<key>videbhiv</key>
+	<string>bhiv</string>
+	<key>videblur</key>
+	<string>卷積濾鏡</string>
+	<key>videcdh1</key>
+	<string>杜比視界HEVC（已加密）</string>
+	<key>videclou</key>
+	<string>雲端</string>
+	<key>videcvid</key>
+	<string>Cinepak</string>
+	<key>videdmb1</key>
+	<string>Motion JPEG OpenDML</string>
+	<key>videdrmi</key>
+	<string>AVC0媒體</string>
+	<key>videdslv</key>
+	<string>交疊淡出</string>
+	<key>videdv5n</key>
+	<string>DVCPRO50 - NTSC</string>
+	<key>videdv5p</key>
+	<string>DVCPRO50 - PAL</string>
+	<key>videdvc </key>
+	<string>DV/DVCPRO - NTSC</string>
+	<key>videdvcp</key>
+	<string>DVC - PAL</string>
+	<key>videdvh1</key>
+	<string>杜比視界HEVC</string>
+	<key>videdvh2</key>
+	<string>DVCPRO HD (1080p25)</string>
+	<key>videdvh3</key>
+	<string>DVCPRO HD (1080p30)</string>
+	<key>videdvh5</key>
+	<string>DVCPRO HD (1080i50)</string>
+	<key>videdvh6</key>
+	<string>DVCPRO HD (1080i60)</string>
+	<key>videdvhp</key>
+	<string>DVCPRO HD (720p60)</string>
+	<key>videdvhq</key>
+	<string>DVCPRO HD (720p50)</string>
+	<key>videdvpp</key>
+	<string>DVCPRO - PAL</string>
+	<key>videembs</key>
+	<string>卷積濾鏡</string>
+	<key>videfire</key>
+	<string>火焰</string>
+	<key>videfmns</key>
+	<string>影片雜訊濾鏡</string>
+	<key>videgenk</key>
+	<string>卷積濾鏡</string>
+	<key>videgif </key>
+	<string>GIF</string>
+	<key>videh261</key>
+	<string>H.261</string>
+	<key>videh263</key>
+	<string>H.263</string>
+	<key>videhe22</key>
+	<string>HEVC 10位元4:2:2</string>
+	<key>videhev1</key>
+	<string>HEVC（位元串流參數組）</string>
+	<key>videhvc1</key>
+	<string>HEVC</string>
+	<key>videicod</key>
+	<string>Apple Intermediate Codec</string>
+	<key>videjpeg</key>
+	<string>照片 - JPEG</string>
+	<key>videkpcd</key>
+	<string>Photo CD</string>
+	<key>vidematt</key>
+	<string>漸變移除</string>
+	<key>videmjp2</key>
+	<string>JPEG 2000</string>
+	<key>videmjpa</key>
+	<string>Motion JPEG A</string>
+	<key>videmjpb</key>
+	<string>Motion JPEG B</string>
+	<key>videmp1v</key>
+	<string>MPEG-1影片</string>
+	<key>videmp2v</key>
+	<string>MPEG-2影片</string>
+	<key>videmp4v</key>
+	<string>MPEG-4影片</string>
+	<key>videmplo</key>
+	<string>向內收縮</string>
+	<key>videmuxa</key>
+	<string>帶有Alpha的HEVC</string>
+	<key>videmx3n</key>
+	<string>MPEG IMX 525/60（30 Mb/秒）</string>
+	<key>videmx3p</key>
+	<string>MPEG IMX 625/50（30 Mb/秒）</string>
+	<key>videmx4n</key>
+	<string>MPEG IMX 525/60（40 Mb/秒）</string>
+	<key>videmx4p</key>
+	<string>MPEG IMX 625/50（40 Mb/秒）</string>
+	<key>videmx5n</key>
+	<string>MPEG IMX 525/60（50 Mb/秒）</string>
+	<key>videmx5p</key>
+	<string>MPEG IMX 625/50（50 Mb/秒）</string>
+	<key>videpng </key>
+	<string>PNG</string>
+	<key>videpush</key>
+	<string>推播</string>
+	<key>videpxlt</key>
+	<string>Apple Pixlet Video</string>
+	<key>videqdh1</key>
+	<string>杜比視界HEVC（版權保護、分散式MP4）</string>
+	<key>vider210</key>
+	<string>未壓縮10位元RGB</string>
+	<key>vider408</key>
+	<string>色差端子Y'CbCrA 8位元4:4:4:4順序A Y' Cb Cr</string>
+	<key>viderle </key>
+	<string>動畫</string>
+	<key>viderpza</key>
+	<string>影片</string>
+	<key>vides263</key>
+	<string>H.263</string>
+	<key>videshrp</key>
+	<string>卷積濾鏡</string>
+	<key>videslid</key>
+	<string>推播</string>
+	<key>videsmc </key>
+	<string>圖形</string>
+	<key>videsmpt</key>
+	<string>移除</string>
+	<key>videsolr</key>
+	<string>色彩平衡濾鏡</string>
+	<key>videtiff</key>
+	<string>TIFF</string>
+	<key>videtint</key>
+	<string>色彩平衡濾鏡</string>
+	<key>videtrav</key>
+	<string>滑動遮罩</string>
+	<key>videv210</key>
+	<string>色差端子Y'CbCr 10位元4:2:2</string>
+	<key>videv216</key>
+	<string>色差端子Y'CbCr 10、12、14、16位元4:2:2</string>
+	<key>videv308</key>
+	<string>色差端子Y'CbCr 8位元4:4:4</string>
+	<key>videv408</key>
+	<string>色差端子Y'CbCrA 8位元4:4:4:4順序Cb Y' Cr A</string>
+	<key>videv410</key>
+	<string>色差端子Y'CbCr 10位元4:4:4</string>
+	<key>videxalg</key>
+	<string>XAVC Long GOP</string>
+	<key>videxf4a</key>
+	<string>XF-AVC Intra 4:4:4 10位元</string>
+	<key>videxf4c</key>
+	<string>XF-AVC Intra 4:4:4 12位元</string>
+	<key>videxfg8</key>
+	<string>XF-AVC Long GOP 4:2:2 8位元</string>
+	<key>videxfga</key>
+	<string>XF-AVC Long GOP 4:2:2 10位元</string>
+	<key>videxfi8</key>
+	<string>XF-AVC Intra 4:2:2 8位元</string>
+	<key>videxfia</key>
+	<string>XF-AVC Intra 4:2:2 10位元</string>
+	<key>videxplo</key>
+	<string>向內收縮</string>
+	<key>videy420</key>
+	<string>三平面色差端子Y'CbCr 8位元4:2:0</string>
+	<key>videyuvs</key>
+	<string>色差端子Y'CbCr 8位元4:2:2順序Y'0 Cb Y'1 Cr</string>
+	<key>videzygo</key>
+	<string>ZyGoVideo</string>
+</dict>
+</plist>

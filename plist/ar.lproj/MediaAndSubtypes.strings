@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VideoDynamicRangeDolbyVision</key>
+	<string>‏Dolby Vision 5</string>
+	<key>VideoDynamicRangeDolbyVision8p4</key>
+	<string>Dolby Vision 8.4</string>
+	<key>VideoDynamicRangeHDR10</key>
+	<string>HDR10</string>
+	<key>VideoDynamicRangeHLG</key>
+	<string>HLG</string>
+	<key>VideoDynamicRangeSDR</key>
+	<string>‏SDR</string>
+	<key>VideoDynamicRangeUnknown</key>
+	<string>غير معروف</string>
+	<key>clcp</key>
+	<string>الشرح المكتوب</string>
+	<key>clcpatcc</key>
+	<string>ATSC/52 part-4</string>
+	<key>clcpc608</key>
+	<string>CEA 608</string>
+	<key>clcpc708</key>
+	<string>CEA 708</string>
+	<key>hintrtp </key>
+	<string>تلميح</string>
+	<key>meta</key>
+	<string>بيانات التعريف</string>
+	<key>metamebx</key>
+	<string>بيانات تعريف بتوقيت</string>
+	<key>musimusi</key>
+	<string>موسيقى</string>
+	<key>muxx</key>
+	<string>متعدد الإرسال</string>
+	<key>obje</key>
+	<string>عنصر QTVR</string>
+	<key>odsm</key>
+	<string>MPEG-4 ODSM</string>
+	<key>odsmmp4s</key>
+	<string>MPEG-4 ODSM</string>
+	<key>pano</key>
+	<string>بانوراما VR</string>
+	<key>qtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtvrqtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtz </key>
+	<string>مؤلف Quartz</string>
+	<key>qtz qtz </key>
+	<string>مؤلف Quartz</string>
+	<key>sbtl</key>
+	<string>عنوان فرعي</string>
+	<key>sbtldrmt</key>
+	<string>عنوان فرعي</string>
+	<key>sbtltx3g</key>
+	<string>عنوان فرعي</string>
+	<key>sdsm</key>
+	<string>MPEG-4 SDSM</string>
+	<key>sdsmmp4s</key>
+	<string>MPEG-4 SDSM</string>
+	<key>skin</key>
+	<string>المظهر الخارجي</string>
+	<key>skinskcr</key>
+	<string>المظهر الخارجي</string>
+	<key>skinskdr</key>
+	<string>سطح</string>
+	<key>soun</key>
+	<string>الصوت</string>
+	<key>sounalac</key>
+	<string>Apple Lossless</string>
+	<key>sounclac</key>
+	<string>‏Apple Lossless (مشفَّر)</string>
+	<key>sounpaac</key>
+	<string>‏AAC (محمي)</string>
+	<key>sounpac3</key>
+	<string>‏AC-3 Dolby Digital (محمي)</string>
+	<key>sounpach</key>
+	<string>‏HE-AACv1 (محمي)</string>
+	<key>sounpacp</key>
+	<string>‏HE-AACv2 (محمي)</string>
+	<key>sounpc+3</key>
+	<string>‏Dolby Atmos (محمي)</string>
+	<key>sounpec3</key>
+	<string>‏EC-3 Dolby Digital+‎ (محمي)</string>
+	<key>sounqaac</key>
+	<string>‏AAC (محمي، MP4 مقسَّم)</string>
+	<key>sounqac3</key>
+	<string>‏AC-3 Dolby Digital (محمي، MP4 مقسَّم)</string>
+	<key>sounqach</key>
+	<string>‏HE-AACv1 (محمي، MP4 مقسَّم)</string>
+	<key>sounqacp</key>
+	<string>‏HE-AACv2 (محمي، MP4 مقسَّم)</string>
+	<key>sounqc+3</key>
+	<string>‏Dolby Atmos (محمي، MP4 مقسَّم)</string>
+	<key>sounqec3</key>
+	<string>‏EC-3 Dolby Digital+‎ (محمي، MP4 مقسَّم)</string>
+	<key>sounqlac</key>
+	<string>‏Apple Lossless (محمي، MP4 مقسَّم)</string>
+	<key>sounvdva</key>
+	<string>DV</string>
+	<key>sounzaac</key>
+	<string>‏AAC (محمي، تدفق نقل)</string>
+	<key>sounzac3</key>
+	<string>‏AC-3 Dolby Digital (محمي، تدفق نقل)</string>
+	<key>sounzach</key>
+	<string>‏HE-AACv1 (محمي، تدفق نقل)</string>
+	<key>sounzacp</key>
+	<string>‏HE-AACv2 (محمي، تدفق نقل)</string>
+	<key>sounzc+3</key>
+	<string>‏Dolby Atmos (محمي، تدفق نقل)</string>
+	<key>sounzec3</key>
+	<string>‏EC-3 Dolby Digital+‎ (محمي، تدفق نقل)</string>
+	<key>sounzlac</key>
+	<string>‏Apple Lossless (محمي، تدفق نقل)</string>
+	<key>sprt</key>
+	<string>Sprite</string>
+	<key>strm</key>
+	<string>تدفق</string>
+	<key>strmrtsp</key>
+	<string>تدفق</string>
+	<key>text</key>
+	<string>نص</string>
+	<key>texttext</key>
+	<string>نص QuickTime</string>
+	<key>texttx3g</key>
+	<string>نص 3GPP</string>
+	<key>tmcd</key>
+	<string>رمز الوقت</string>
+	<key>tmcdtmcd</key>
+	<string>رمز الوقت</string>
+	<key>tmet</key>
+	<string>بيانات تعريف بتوقيت</string>
+	<key>twen</key>
+	<string>Tween</string>
+	<key>vide</key>
+	<string>فيديو</string>
+	<key>vide1</key>
+	<string>لون مفهرس ١ بت غير مضغوط</string>
+	<key>vide16</key>
+	<string>‏RGB 555 16 بت غير مضغوط (بناء طرفي كبير)</string>
+	<key>vide2</key>
+	<string>لون مفهرس ٢ بت غير مضغوط</string>
+	<key>vide24</key>
+	<string>‏RGB ٢٤ بت غير مضغوط</string>
+	<key>vide24BG</key>
+	<string>‏BGR ٢٤ بت غير مضغوط</string>
+	<key>vide2vuy</key>
+	<string>قام المكوّن Y'CbCr ٨ بت بطلب Cb Y'0 Cr Y'1</string>
+	<key>vide32</key>
+	<string>‏ARGB ٣٢ بت غير مضغوط</string>
+	<key>vide33</key>
+	<string>Uncompressed 1-bit Grayscale</string>
+	<key>vide34</key>
+	<string>تدرج الرمادي ٢ بت غير مضغوط</string>
+	<key>vide36</key>
+	<string>تدرج الرمادي ٤ بت غير مضغوط</string>
+	<key>vide4</key>
+	<string>لون مفهرس ٤ بت غير مضغوط</string>
+	<key>vide40</key>
+	<string>تدرج الرمادي ٨ بت غير مضغوط</string>
+	<key>vide5551</key>
+	<string>‏RGB 5551 ١٦ بت غير مضغوط (بناء طرفي صغير)</string>
+	<key>vide8</key>
+	<string>لون مفهرس ٨ بت غير مضغوط</string>
+	<key>vide8BPS</key>
+	<string>Planar RGB</string>
+	<key>videABGR</key>
+	<string>Uncompressed 32-bit ABGR</string>
+	<key>videACTL</key>
+	<string>Streambox ACT-L2</string>
+	<key>videAVdh</key>
+	<string>Avid DNxHR</string>
+	<key>videAVdn</key>
+	<string>Avid DNxHD</string>
+	<key>videB565</key>
+	<string>‏RGB 565 ١٦ بت غير مضغوط (بناء طرفي كبير)</string>
+	<key>videBGRA</key>
+	<string>‏BGRA ٣٢ بت غير مضغوط</string>
+	<key>videEIDI</key>
+	<string>EIDI</string>
+	<key>videIV41</key>
+	<string>Intel Indeo™ Video 4.3</string>
+	<key>videIV50</key>
+	<string>Indeo™ video 5.1</string>
+	<key>videJvt3</key>
+	<string>Apple H.264/AVC Video (Preview)</string>
+	<key>videL555</key>
+	<string>Uncompressed 16-bit RGB 555 (Little Endian)</string>
+	<key>videL565</key>
+	<string>‏RGB 565 ١٦ بت غير مضغوط (بناء طرفي صغير)</string>
+	<key>videRGBA</key>
+	<string>‏RGBA ٣٢ بت غير مضغوط</string>
+	<key>videSVQ1</key>
+	<string>فيديو Sorenson</string>
+	<key>videSVQ3</key>
+	<string>فيديو Sorenson ٣</string>
+	<key>videVP31</key>
+	<string>3.2 On2 VP3 فيديو</string>
+	<key>videa2vy</key>
+	<string>مكوّن ذو مستويين Y'CbCr، A ٨ بت 4:2:2,4</string>
+	<key>videai12</key>
+	<string>AVC-Intra 100 1080p50/25</string>
+	<key>videai13</key>
+	<string>AVC-Intra 100 1080p60/30/24</string>
+	<key>videai15</key>
+	<string>AVC-Intra 100 1080i50</string>
+	<key>videai16</key>
+	<string>AVC-Intra 100 1080i60</string>
+	<key>videai1p</key>
+	<string>AVC-Intra 100 720p60/30/24</string>
+	<key>videai1q</key>
+	<string>AVC-Intra 100 720p50/25</string>
+	<key>videai22</key>
+	<string>AVC-Intra 200 1080p50/25</string>
+	<key>videai23</key>
+	<string>‏‪AVC-Intra 200 1080p60/30/24‬</string>
+	<key>videai25</key>
+	<string>AVC-Intra 200 1080i50</string>
+	<key>videai26</key>
+	<string>AVC-Intra 200 1080i60</string>
+	<key>videai2p</key>
+	<string>AVC-Intra 200 720p60/30/24</string>
+	<key>videai2q</key>
+	<string>AVC-Intra 200 720p50/25</string>
+	<key>videai42</key>
+	<string>AVC-Intra 4:2:2</string>
+	<key>videai44</key>
+	<string>‏‪AVC-Intra 4:4:4‬</string>
+	<key>videai52</key>
+	<string>AVC-Intra 50 1080p50/25</string>
+	<key>videai53</key>
+	<string>AVC-Intra 50 1080p60/30/24</string>
+	<key>videai55</key>
+	<string>AVC-Intra 50 1080i50</string>
+	<key>videai56</key>
+	<string>AVC-Intra 50 1080i60</string>
+	<key>videai5p</key>
+	<string>AVC-Intra 50 720p60/30/24</string>
+	<key>videai5q</key>
+	<string>AVC-Intra 50 720p50/25</string>
+	<key>videailt</key>
+	<string>AVC-Intra LT</string>
+	<key>videaivx</key>
+	<string>XAVC Intra</string>
+	<key>videap4h</key>
+	<string>Apple ProRes 4444</string>
+	<key>videap4x</key>
+	<string>‏‪Apple ProRes 4444 XQ‬</string>
+	<key>videapch</key>
+	<string>Apple ProRes 422 HQ</string>
+	<key>videapcn</key>
+	<string>Apple ProRes 422</string>
+	<key>videapco</key>
+	<string>‏‪Apple ProRes 422 Proxy‬</string>
+	<key>videapcs</key>
+	<string>Apple ProRes 422 LT</string>
+	<key>videaprh</key>
+	<string>‪Apple ProRes RAW HQ‬</string>
+	<key>videaprn</key>
+	<string>Apple ProRes RAW</string>
+	<key>videavc1</key>
+	<string>H.264</string>
+	<key>videavc3</key>
+	<string>‏H.264 (مجموعات معاملات في تدفق بت)</string>
+	<key>videavlg</key>
+	<string>AVC-LongG</string>
+	<key>videavr </key>
+	<string>حركة JPEG AVR</string>
+	<key>videb16g</key>
+	<string>Uncompressed 16-bit Grayscale</string>
+	<key>videb32a</key>
+	<string>‏AlphaGray ٣٢ بت غير مضغوط</string>
+	<key>videb48r</key>
+	<string>‏RGB ٤٨ بت غير مضغوط</string>
+	<key>videb64a</key>
+	<string>‏ARGB ٦٤ بت غير مضغوط</string>
+	<key>videbhiv</key>
+	<string>bhiv</string>
+	<key>videblur</key>
+	<string>فلتر الالتفاف</string>
+	<key>videcdh1</key>
+	<string>‏Dolby Vision HEVC (مشفَّر)</string>
+	<key>videclou</key>
+	<string>السحابة</string>
+	<key>videcvid</key>
+	<string>Cinepak</string>
+	<key>videdmb1</key>
+	<string>Motion JPEG OpenDML</string>
+	<key>videdrmi</key>
+	<string>وسائط AVC0</string>
+	<key>videdslv</key>
+	<string>تلاشي متقاطع</string>
+	<key>videdv5n</key>
+	<string>DVCPRO50 - NTSC</string>
+	<key>videdv5p</key>
+	<string>DVCPRO50 - PAL</string>
+	<key>videdvc </key>
+	<string>DV/DVCPRO - NTSC</string>
+	<key>videdvcp</key>
+	<string>DVC - PAL</string>
+	<key>videdvh1</key>
+	<string>‏Dolby Vision HEVC</string>
+	<key>videdvh2</key>
+	<string>‪DVCPRO HD (1080p25)‬</string>
+	<key>videdvh3</key>
+	<string>‪DVCPRO HD (1080p30)‬</string>
+	<key>videdvh5</key>
+	<string>‪DVCPRO HD (1080i50)‬</string>
+	<key>videdvh6</key>
+	<string>‪DVCPRO HD (1080i60)‬</string>
+	<key>videdvhp</key>
+	<string>‪DVCPRO HD (720p60)‬</string>
+	<key>videdvhq</key>
+	<string>‪DVCPRO HD (720p50)‬</string>
+	<key>videdvpp</key>
+	<string>DVCPRO - PAL</string>
+	<key>videembs</key>
+	<string>فلتر الالتفاف</string>
+	<key>videfire</key>
+	<string>نار</string>
+	<key>videfmns</key>
+	<string>فلتر ضوضاء الفيلم</string>
+	<key>videgenk</key>
+	<string>فلتر الالتفاف</string>
+	<key>videgif </key>
+	<string>GIF</string>
+	<key>videh261</key>
+	<string>H.261</string>
+	<key>videh263</key>
+	<string>H.263</string>
+	<key>videhe22</key>
+	<string>HEVC 10-bit 4:2:2</string>
+	<key>videhev1</key>
+	<string>‏HEVC (مجموعات المعاملات في تدفق البت)</string>
+	<key>videhvc1</key>
+	<string>HEVC</string>
+	<key>videicod</key>
+	<string>Apple Intermediate Codec</string>
+	<key>videjpeg</key>
+	<string>صورة - JPEG</string>
+	<key>videkpcd</key>
+	<string>قرص مضغوط للصور</string>
+	<key>vidematt</key>
+	<string>المسح المتدرج</string>
+	<key>videmjp2</key>
+	<string>JPEG 2000</string>
+	<key>videmjpa</key>
+	<string>Motion JPEG A</string>
+	<key>videmjpb</key>
+	<string>Motion JPEG B</string>
+	<key>videmp1v</key>
+	<string>MPEG-1 فيديو</string>
+	<key>videmp2v</key>
+	<string>MPEG-2 فيديو</string>
+	<key>videmp4v</key>
+	<string>MPEG-4 فيديو</string>
+	<key>videmplo</key>
+	<string>الإبعاد</string>
+	<key>videmuxa</key>
+	<string>ترميز HEVC مع ألفا</string>
+	<key>videmx3n</key>
+	<string>‏MPEG IMX 525/60 (٣٠ ميغابت/ثانية)</string>
+	<key>videmx3p</key>
+	<string>‏‪MPEG IMX 625/50‬ ‏(٣٠ م.ب/ث)</string>
+	<key>videmx4n</key>
+	<string>‏MPEG IMX 525/60 (٤٠ ميغابت/ثانية)</string>
+	<key>videmx4p</key>
+	<string>‏MPEG IMX 625/50 (٤٠ ميغابت/ثانية)</string>
+	<key>videmx5n</key>
+	<string>‏MPEG IMX 525/60 (٥٠ ميغابت/ثانية)</string>
+	<key>videmx5p</key>
+	<string>‏MPEG IMX 625/50 (٥٠ ميغابت/ثانية)</string>
+	<key>videpng </key>
+	<string>PNG</string>
+	<key>videpush</key>
+	<string>إشعارات لحظية</string>
+	<key>videpxlt</key>
+	<string>Apple Pixlet فيديو</string>
+	<key>videqdh1</key>
+	<string>‏Dolby Vision HEVC (محمي، MP4 مقسَّم)</string>
+	<key>vider210</key>
+	<string>‏RGB ١٠ بت غير مضغوط</string>
+	<key>vider408</key>
+	<string>قام المكوّن Y'CbCrA ٨ بت 4:4:4:4 بطلب A Y' Cb Cr</string>
+	<key>viderle </key>
+	<string>حركة</string>
+	<key>viderpza</key>
+	<string>الفيديو</string>
+	<key>vides263</key>
+	<string>H.263</string>
+	<key>videshrp</key>
+	<string>فلتر الالتفاف</string>
+	<key>videslid</key>
+	<string>دفع</string>
+	<key>videsmc </key>
+	<string>الرسومات</string>
+	<key>videsmpt</key>
+	<string>مسح</string>
+	<key>videsolr</key>
+	<string>فلتر توازن اللون</string>
+	<key>videtiff</key>
+	<string>TIFF</string>
+	<key>videtint</key>
+	<string>فلتر توازن اللون</string>
+	<key>videtrav</key>
+	<string>سفري غير لامع</string>
+	<key>videv210</key>
+	<string>محتوى Y'CbCr 10-bit 4:2:2</string>
+	<key>videv216</key>
+	<string>محتوى Y'CbCr 10,12,14,16-bit 4:2:2</string>
+	<key>videv308</key>
+	<string>المكوّن Y'CbCr ٨ بت 4:4:4</string>
+	<key>videv408</key>
+	<string>قام المكوّن Y'CbCrA ٨ بت 4:4:4:4 بطلب Cb Y' Cr A</string>
+	<key>videv410</key>
+	<string>المكوّن Y'CbCr ١٠ بت 4:4:4</string>
+	<key>videxalg</key>
+	<string>XAVC Long GOP</string>
+	<key>videxf4a</key>
+	<string>‏XF-AVC Intra 4:4:4 ١٠ بت</string>
+	<key>videxf4c</key>
+	<string>‏XF-AVC Intra 4:4:4 ١٢ بت</string>
+	<key>videxfg8</key>
+	<string>‏XF-AVC Intra 4:2:2 ٨ بت</string>
+	<key>videxfga</key>
+	<string>‏XF-AVC Intra 4:2:2 ١٠ بت</string>
+	<key>videxfi8</key>
+	<string>‏XF-AVC Intra 4:2:2 ٨ بت</string>
+	<key>videxfia</key>
+	<string>‏XF-AVC Intra 4:2:2 ١٠ بت</string>
+	<key>videxplo</key>
+	<string>الإبعاد</string>
+	<key>videy420</key>
+	<string>مكوّن ذو ثلاثة مستويات Y'CbCr ٨ بت 4:2:0</string>
+	<key>videyuvs</key>
+	<string>قام المكوّن Y'CbCr ٨ بت 4:2:2 بطلب Y'0 Cb Y'1 Cr</string>
+	<key>videzygo</key>
+	<string>ZyGoVideo</string>
+</dict>
+</plist>

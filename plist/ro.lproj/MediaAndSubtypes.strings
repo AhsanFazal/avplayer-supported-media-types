@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VideoDynamicRangeDolbyVision</key>
+	<string>Dolby Vision 5</string>
+	<key>VideoDynamicRangeDolbyVision8p4</key>
+	<string>Dolby Vision 8.4</string>
+	<key>VideoDynamicRangeHDR10</key>
+	<string>HDR10</string>
+	<key>VideoDynamicRangeHLG</key>
+	<string>HLG</string>
+	<key>VideoDynamicRangeSDR</key>
+	<string>SDR</string>
+	<key>VideoDynamicRangeUnknown</key>
+	<string>necunoscută</string>
+	<key>clcp</key>
+	<string>Subtitrare complexă</string>
+	<key>clcpatcc</key>
+	<string>ATSC/52 part-4</string>
+	<key>clcpc608</key>
+	<string>CEA 608</string>
+	<key>clcpc708</key>
+	<string>CEA 708</string>
+	<key>hintrtp </key>
+	<string>Indiciu</string>
+	<key>meta</key>
+	<string>Metadate</string>
+	<key>metamebx</key>
+	<string>Metadate temporale</string>
+	<key>musimusi</key>
+	<string>Muzică</string>
+	<key>muxx</key>
+	<string>Multiplexat</string>
+	<key>obje</key>
+	<string>Obiect QTVR</string>
+	<key>odsm</key>
+	<string>MPEG-4 ODSM</string>
+	<key>odsmmp4s</key>
+	<string>MPEG-4 ODSM</string>
+	<key>pano</key>
+	<string>Panoramă VR</string>
+	<key>qtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtvrqtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtz </key>
+	<string>Quartz Composer</string>
+	<key>qtz qtz </key>
+	<string>Quartz Composer</string>
+	<key>sbtl</key>
+	<string>Subtitrare</string>
+	<key>sbtldrmt</key>
+	<string>Subtitrare</string>
+	<key>sbtltx3g</key>
+	<string>Subtitrare</string>
+	<key>sdsm</key>
+	<string>MPEG-4 SDSM</string>
+	<key>sdsmmp4s</key>
+	<string>MPEG-4 SDSM</string>
+	<key>skin</key>
+	<string>Înfățișare</string>
+	<key>skinskcr</key>
+	<string>Înfățișare</string>
+	<key>skinskdr</key>
+	<string>Înfățișare</string>
+	<key>soun</key>
+	<string>Sunet</string>
+	<key>sounalac</key>
+	<string>Apple Lossless</string>
+	<key>sounclac</key>
+	<string>Apple Lossless (criptat)</string>
+	<key>sounpaac</key>
+	<string>AAC (protejat)</string>
+	<key>sounpac3</key>
+	<string>AC-3 Dolby Digital (protejat)</string>
+	<key>sounpach</key>
+	<string>HE-AACv1 (protejat)</string>
+	<key>sounpacp</key>
+	<string>HE-AACv2 (protejat)</string>
+	<key>sounpc+3</key>
+	<string>Dolby Atmos (protejat)</string>
+	<key>sounpec3</key>
+	<string>EC-3 Dolby Digital+ (protejat)</string>
+	<key>sounqaac</key>
+	<string>AAC (protejat, MP4 fragmentat)</string>
+	<key>sounqac3</key>
+	<string>AC-3 Dolby Digital (protejat, MP4 fragmentat)</string>
+	<key>sounqach</key>
+	<string>HE-AACv1 (protejat, MP4 fragmentat)</string>
+	<key>sounqacp</key>
+	<string>HE-AACv2 (protejat, MP4 fragmentat)</string>
+	<key>sounqc+3</key>
+	<string>Dolby Atmos (protejat, MP4 fragmentat)</string>
+	<key>sounqec3</key>
+	<string>EC-3 Dolby Digital+ (protejat, MP4 fragmentat)</string>
+	<key>sounqlac</key>
+	<string>Apple Lossless (protejat, MP4 fragmentat)</string>
+	<key>sounvdva</key>
+	<string>DV</string>
+	<key>sounzaac</key>
+	<string>AAC (protejat, flux de transport)</string>
+	<key>sounzac3</key>
+	<string>AC-3 Dolby Digital (protejat, flux de transport)</string>
+	<key>sounzach</key>
+	<string>HE-AACv1 (protejat, flux de transport)</string>
+	<key>sounzacp</key>
+	<string>HE-AACv2 (protejat, flux de transport)</string>
+	<key>sounzc+3</key>
+	<string>Dolby Atmos (protejat, flux de transport)</string>
+	<key>sounzec3</key>
+	<string>EC-3 Dolby Digital+ (protejat, flux de transport)</string>
+	<key>sounzlac</key>
+	<string>Apple Lossless (protejat, flux de transport)</string>
+	<key>sprt</key>
+	<string>Sprite</string>
+	<key>strm</key>
+	<string>Difuzare în flux</string>
+	<key>strmrtsp</key>
+	<string>Difuzare în flux</string>
+	<key>text</key>
+	<string>Text</string>
+	<key>texttext</key>
+	<string>Text QuickTime</string>
+	<key>texttx3g</key>
+	<string>Text 3GPP</string>
+	<key>tmcd</key>
+	<string>Cod de timp</string>
+	<key>tmcdtmcd</key>
+	<string>Cod de timp</string>
+	<key>tmet</key>
+	<string>Metadate temporale</string>
+	<key>twen</key>
+	<string>Intermediar</string>
+	<key>vide</key>
+	<string>Video</string>
+	<key>vide1</key>
+	<string>Culoare indexată, 1 bit, necomprimat</string>
+	<key>vide16</key>
+	<string>RGB 555, 16 biți, necomprimat (Big Endian)</string>
+	<key>vide2</key>
+	<string>Culoare indexată, 2 biți, necomprimat</string>
+	<key>vide24</key>
+	<string>RGB, 24 biți, necomprimat</string>
+	<key>vide24BG</key>
+	<string>BGR, 24 biți, necomprimat</string>
+	<key>vide2vuy</key>
+	<string>Component Y'CbCr 8 biți 4:2:2 în ordinea Cb Y'0 Cr Y'1</string>
+	<key>vide32</key>
+	<string>ARGB, 32 biți, necomprimat</string>
+	<key>vide33</key>
+	<string>Tonuri de gri, 1 bit, necomprimat</string>
+	<key>vide34</key>
+	<string>Tonuri de gri, 2 biți, necomprimat</string>
+	<key>vide36</key>
+	<string>Tonuri de gri, 4 biți, necomprimat</string>
+	<key>vide4</key>
+	<string>Culoare indexată, 4 biți, necomprimat</string>
+	<key>vide40</key>
+	<string>Tonuri de gri, 8 biți, necomprimat</string>
+	<key>vide5551</key>
+	<string>RGB 5551, 16 biți, necomprimat (Little Endian)</string>
+	<key>vide8</key>
+	<string>Culoare indexată, 8 biți, necomprimat</string>
+	<key>vide8BPS</key>
+	<string>RGB Planar</string>
+	<key>videABGR</key>
+	<string>ABGR, 32 biți, necomprimat</string>
+	<key>videACTL</key>
+	<string>Streambox ACT-L2</string>
+	<key>videAVdh</key>
+	<string>Avid DNxHR</string>
+	<key>videAVdn</key>
+	<string>Avid DNxHD</string>
+	<key>videB565</key>
+	<string>RGB 565, 16 biți, necomprimat (Big Endian)</string>
+	<key>videBGRA</key>
+	<string>BGRA, 32 biți, necomprimat</string>
+	<key>videEIDI</key>
+	<string>EIDI</string>
+	<key>videIV41</key>
+	<string>Intel Indeo™ Video 4.3</string>
+	<key>videIV50</key>
+	<string>Indeo™ video 5.1</string>
+	<key>videJvt3</key>
+	<string>Video Apple H.264/AVC (previzualizare)</string>
+	<key>videL555</key>
+	<string>RGB 555, 16 biți, necomprimat (Little Endian)</string>
+	<key>videL565</key>
+	<string>RGB 565, 16 biți, necomprimat (Little Endian)</string>
+	<key>videRGBA</key>
+	<string>RGBA, 32 biți, necomprimat</string>
+	<key>videSVQ1</key>
+	<string>Sorenson Video</string>
+	<key>videSVQ3</key>
+	<string>Sorenson Video 3</string>
+	<key>videVP31</key>
+	<string>On2 VP3 Video 3.2</string>
+	<key>videa2vy</key>
+	<string>Component în două planuri Y'CbCr,A 8 biți 4:2:2,4</string>
+	<key>videai12</key>
+	<string>AVC-Intra 100 1080p50/25</string>
+	<key>videai13</key>
+	<string>AVC-Intra 100 1080p60/30/24</string>
+	<key>videai15</key>
+	<string>AVC-Intra 100 1080i50</string>
+	<key>videai16</key>
+	<string>AVC-Intra 100 1080i60</string>
+	<key>videai1p</key>
+	<string>AVC-Intra 100 720p60/30/24</string>
+	<key>videai1q</key>
+	<string>AVC-Intra 100 720p50/25</string>
+	<key>videai22</key>
+	<string>AVC-Intra 200 1080p50/25</string>
+	<key>videai23</key>
+	<string>AVC-Intra 200 1080p60/30/24</string>
+	<key>videai25</key>
+	<string>AVC-Intra 200 1080i50</string>
+	<key>videai26</key>
+	<string>AVC-Intra 200 1080i60</string>
+	<key>videai2p</key>
+	<string>AVC-Intra 200 720p60/30/24</string>
+	<key>videai2q</key>
+	<string>AVC-Intra 200 720p50/25</string>
+	<key>videai42</key>
+	<string>AVC-Intra 4:2:2</string>
+	<key>videai44</key>
+	<string>AVC-Intra 4:4:4</string>
+	<key>videai52</key>
+	<string>AVC-Intra 50 1080p50/25</string>
+	<key>videai53</key>
+	<string>AVC-Intra 50 1080p60/30/24</string>
+	<key>videai55</key>
+	<string>AVC-Intra 50 1080i50</string>
+	<key>videai56</key>
+	<string>AVC-Intra 50 1080i60</string>
+	<key>videai5p</key>
+	<string>AVC-Intra 50 720p60/30/24</string>
+	<key>videai5q</key>
+	<string>AVC-Intra 50 720p50/25</string>
+	<key>videailt</key>
+	<string>AVC-Intra LT</string>
+	<key>videaivx</key>
+	<string>XAVC Intra</string>
+	<key>videap4h</key>
+	<string>Apple ProRes 4444</string>
+	<key>videap4x</key>
+	<string>Apple ProRes 4444 XQ</string>
+	<key>videapch</key>
+	<string>Apple ProRes 422 HQ</string>
+	<key>videapcn</key>
+	<string>Apple ProRes 422</string>
+	<key>videapco</key>
+	<string>Apple ProRes 422 Proxy</string>
+	<key>videapcs</key>
+	<string>Apple ProRes 422 LT</string>
+	<key>videaprh</key>
+	<string>Apple ProRes RAW HQ</string>
+	<key>videaprn</key>
+	<string>Apple ProRes RAW</string>
+	<key>videavc1</key>
+	<string>H.264</string>
+	<key>videavc3</key>
+	<string>H.264 (seturi de parametri în flux de biți)</string>
+	<key>videavlg</key>
+	<string>AVC-LongG</string>
+	<key>videavr </key>
+	<string>Motion JPEG AVR</string>
+	<key>videb16g</key>
+	<string>Tonuri de gri, 16 biți, necomprimat</string>
+	<key>videb32a</key>
+	<string>AlphaGray, 32 biți, necomprimat</string>
+	<key>videb48r</key>
+	<string>RGB, 48 biți, necomprimat</string>
+	<key>videb64a</key>
+	<string>ARGB, 64 biți, necomprimat</string>
+	<key>videbhiv</key>
+	<string>bhiv</string>
+	<key>videblur</key>
+	<string>Filtru de convoluție</string>
+	<key>videcdh1</key>
+	<string>Dolby Vision HEVC (criptat)</string>
+	<key>videclou</key>
+	<string>Nor</string>
+	<key>videcvid</key>
+	<string>Cinepak</string>
+	<key>videdmb1</key>
+	<string>Motion JPEG OpenDML</string>
+	<key>videdrmi</key>
+	<string>AVC0 Media</string>
+	<key>videdslv</key>
+	<string>Anșeneu</string>
+	<key>videdv5n</key>
+	<string>DVCPRO50 - NTSC</string>
+	<key>videdv5p</key>
+	<string>DVCPRO50 - PAL</string>
+	<key>videdvc </key>
+	<string>DV/DVCPRO - NTSC</string>
+	<key>videdvcp</key>
+	<string>DVC - PAL</string>
+	<key>videdvh1</key>
+	<string>Dolby Vision HEVC</string>
+	<key>videdvh2</key>
+	<string>DVCPRO HD (1080p25)</string>
+	<key>videdvh3</key>
+	<string>DVCPRO HD (1080p30)</string>
+	<key>videdvh5</key>
+	<string>DVCPRO HD (1080i50)</string>
+	<key>videdvh6</key>
+	<string>DVCPRO HD (1080i60)</string>
+	<key>videdvhp</key>
+	<string>DVCPRO HD (720p60)</string>
+	<key>videdvhq</key>
+	<string>DVCPRO HD (720p50)</string>
+	<key>videdvpp</key>
+	<string>DVCPRO - PAL</string>
+	<key>videembs</key>
+	<string>Filtru de convoluție</string>
+	<key>videfire</key>
+	<string>Foc</string>
+	<key>videfmns</key>
+	<string>Filtru de zgomot film</string>
+	<key>videgenk</key>
+	<string>Filtru de convoluție</string>
+	<key>videgif </key>
+	<string>GIF</string>
+	<key>videh261</key>
+	<string>H.261</string>
+	<key>videh263</key>
+	<string>H.263</string>
+	<key>videhe22</key>
+	<string>HEVC, 10 biți, 4:2:2</string>
+	<key>videhev1</key>
+	<string>HEVC (seturi de parametri în flux de biți)</string>
+	<key>videhvc1</key>
+	<string>HEVC</string>
+	<key>videicod</key>
+	<string>Apple Intermediate Codec</string>
+	<key>videjpeg</key>
+	<string>Photo - JPEG</string>
+	<key>videkpcd</key>
+	<string>Photo CD</string>
+	<key>vidematt</key>
+	<string>Ștergere gradient</string>
+	<key>videmjp2</key>
+	<string>JPEG 2000</string>
+	<key>videmjpa</key>
+	<string>Motion JPEG A</string>
+	<key>videmjpb</key>
+	<string>Motion JPEG B</string>
+	<key>videmp1v</key>
+	<string>Video MPEG-1</string>
+	<key>videmp2v</key>
+	<string>Video MPEG-2</string>
+	<key>videmp4v</key>
+	<string>Video MPEG-4</string>
+	<key>videmplo</key>
+	<string>Implozie</string>
+	<key>videmuxa</key>
+	<string>HEVC cu alfa</string>
+	<key>videmx3n</key>
+	<string>MPEG IMX 525/60 (30 Mb/s)</string>
+	<key>videmx3p</key>
+	<string>MPEG IMX 625/50 (30 Mb/s)</string>
+	<key>videmx4n</key>
+	<string>MPEG IMX 525/60 (40 Mb/s)</string>
+	<key>videmx4p</key>
+	<string>MPEG IMX 625/50 (40 Mb/s)</string>
+	<key>videmx5n</key>
+	<string>MPEG IMX 525/60 (50 Mb/s)</string>
+	<key>videmx5p</key>
+	<string>MPEG IMX 625/50 (50 Mb/s)</string>
+	<key>videpng </key>
+	<string>PNG</string>
+	<key>videpush</key>
+	<string>Împingere</string>
+	<key>videpxlt</key>
+	<string>Video Apple Pixlet</string>
+	<key>videqdh1</key>
+	<string>Dolby Vision HEVC (protejat, MP4 fragmentat)</string>
+	<key>vider210</key>
+	<string>RGB, 10 biți, necomprimat</string>
+	<key>vider408</key>
+	<string>Component Y'CbCrA 8 biți 4:4:4:4 în ordinea A Y' Cb Cr</string>
+	<key>viderle </key>
+	<string>Animație</string>
+	<key>viderpza</key>
+	<string>Video</string>
+	<key>vides263</key>
+	<string>H.263</string>
+	<key>videshrp</key>
+	<string>Filtru de convoluție</string>
+	<key>videslid</key>
+	<string>Împingere</string>
+	<key>videsmc </key>
+	<string>Grafică</string>
+	<key>videsmpt</key>
+	<string>Ștergere</string>
+	<key>videsolr</key>
+	<string>Filtru de balans de culoare</string>
+	<key>videtiff</key>
+	<string>TIFF</string>
+	<key>videtint</key>
+	<string>Filtru de balans de culoare</string>
+	<key>videtrav</key>
+	<string>Traveling Matte</string>
+	<key>videv210</key>
+	<string>Componente Y'CbCr 10 biți 4:2:2</string>
+	<key>videv216</key>
+	<string>Componente Y'CbCr 10,12,14,16 biți 4:2:2</string>
+	<key>videv308</key>
+	<string>Componente Y'CbCr 8 biți 4:4:4</string>
+	<key>videv408</key>
+	<string>Componente Y'CbCrA 8 biți 4:4:4:4 în ordinea Cb Y' Cr A</string>
+	<key>videv410</key>
+	<string>Componente Y'CbCr 10 biți 4:4:4</string>
+	<key>videxalg</key>
+	<string>XAVC Long GOP</string>
+	<key>videxf4a</key>
+	<string>XF-AVC Intra 4:4:4 10 biți</string>
+	<key>videxf4c</key>
+	<string>XF-AVC Intra 4:4:4 12 biți</string>
+	<key>videxfg8</key>
+	<string>XF-AVC Long GOP 4:2:2 8 biți</string>
+	<key>videxfga</key>
+	<string>XF-AVC Long GOP 4:2:2 10 biți</string>
+	<key>videxfi8</key>
+	<string>XF-AVC Intra 4:2:2 8 biți</string>
+	<key>videxfia</key>
+	<string>XF-AVC Intra 4:2:2 10 biți</string>
+	<key>videxplo</key>
+	<string>Implozie</string>
+	<key>videy420</key>
+	<string>Component în trei planuri Y'CbCr 8 biți 4:2:0</string>
+	<key>videyuvs</key>
+	<string>Componente Y'CbCr 8 biți 4:2:2 ordine Y'0 Cb Y'1 Cr</string>
+	<key>videzygo</key>
+	<string>ZyGoVideo</string>
+</dict>
+</plist>
