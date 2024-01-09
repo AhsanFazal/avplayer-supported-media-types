@@ -1,0 +1,67 @@
+{
+  "VideoCodecProfiles": {
+    "SVQ3": { "VideoMaxPixelsPerFrame": 76800 },
+    "h263": { "MaxProfile": 0, "MaxLevel": 45 },
+    "avc1": {
+      "SupportedProfiles": [66, 77, 100],
+      "MaxLevel": 52,
+      "PerProfileConstraints": {
+        "100": { "MaxAverageMegabits": 240 },
+        "66": { "MaxAverageMegabits": 240 },
+        "77": { "MaxAverageMegabits": 240 }
+      }
+    },
+    "hvc1": {
+      "PerProfileConstraints": {
+        "1": { "MaxAverageMegabits": 500 },
+        "2": { "MaxAverageMegabits": 500 },
+        "4": { "MaxAverageMegabits": 500 }
+      },
+      "SupportedProfiles": [1, 2, 4],
+      "MaxLevel": 186,
+      "MaxTier": 1
+    },
+    "mp4v": { "MaxProfile": 1, "MaxLevel": 5 }
+  },
+  "VideoTrackPresent": true,
+  "soun": [
+    "lpcm",
+    "ima4",
+    "aac ",
+    "paac",
+    "aaac",
+    "usac",
+    "alac",
+    ".mp3",
+    "samr",
+    "ulaw",
+    "alaw",
+    "ac-3"
+  ],
+  "vide": [
+    "hvc1",
+    "avc1",
+    "mp4v",
+    "SVQ3",
+    "ipb ",
+    "h263",
+    "dmb1",
+    "jpeg",
+    "drmi",
+    "ap4x",
+    "ap4h",
+    "apcn",
+    "apch",
+    "apcs",
+    "apco"
+  ],
+  "VideoMaxWidth": 8192,
+  "VideoNoInterlacing": true,
+  "VideoMaxPixelsPerFrame": 35651584,
+  "text": ["wvtt"],
+  "AllowMultipleEdits": true,
+  "TrackTypes": ["vide", "soun", "clcp", "sbtl", "text", "scen"],
+  "VideoMaxHeight": 8192,
+  "AudioMaxSampleRate": 192000,
+  "ValidationType": "RequireOneRecognized"
+}

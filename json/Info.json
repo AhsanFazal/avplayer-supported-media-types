@@ -1,0 +1,23 @@
+{
+  "CFBundleName": "MediaToolbox",
+  "DTXcode": "1500",
+  "DTSDKName": "iphonesimulator17.2.internal",
+  "DTSDKBuild": "21C59",
+  "CFBundleDevelopmentRegion": "English",
+  "CFBundleVersion": "3090.15.1.6",
+  "BuildMachineOSBuild": "22A380019",
+  "DTPlatformName": "iphonesimulator",
+  "CFBundlePackageType": "FMWK",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": ["iPhoneSimulator"],
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleExecutable": "MediaToolbox",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "MinimumOSVersion": "17.2",
+  "CFBundleIdentifier": "com.apple.MediaToolbox",
+  "UIDeviceFamily": [1],
+  "DTPlatformVersion": "17.2",
+  "DTXcodeBuild": "15A6160m",
+  "CFBundleSignature": "????",
+  "DTPlatformBuild": "21C59"
+}

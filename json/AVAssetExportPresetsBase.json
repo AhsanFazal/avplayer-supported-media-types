@@ -1,0 +1,6 @@
+{
+  "AVAssetExportPresetVoiceMemoALAC": {
+    "Audio": { "audioPreset": "Preset_ALAC_16bitSource" },
+    "Video": { "videoCodec": 1851876449 }
+  }
+}

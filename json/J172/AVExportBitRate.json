@@ -1,0 +1,350 @@
+{
+  "AVAssetExportBitRateMessageSquare": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 3000000,
+        "maxWidth": 960
+      },
+      {
+        "maxHeight": 640,
+        "frameRate": 30,
+        "bitRate": 2000000,
+        "maxWidth": 640
+      },
+      {
+        "maxHeight": 480,
+        "frameRate": 30,
+        "bitRate": 1700000,
+        "maxWidth": 480
+      },
+      {
+        "maxHeight": 320,
+        "frameRate": 15,
+        "bitRate": 1000000,
+        "maxWidth": 320
+      },
+      { "maxHeight": 192, "frameRate": 15, "bitRate": 300000, "maxWidth": 192 }
+    ]
+  },
+  "AVAssetExportBitRateICPLSquare": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 7000000,
+        "maxWidth": 960
+      },
+      { "maxHeight": 480, "frameRate": 30, "bitRate": 3000000, "maxWidth": 480 }
+    ]
+  },
+  "AVAssetExportBitRateMessageHEVC": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 960,
+        "frameRate": 32,
+        "bitRate": 2882000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 32,
+        "bitRate": 2200000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 32,
+        "bitRate": 1250000,
+        "maxWidth": 960
+      },
+      { "maxHeight": 480, "frameRate": 32, "bitRate": 900000, "maxWidth": 640 },
+      { "maxHeight": 360, "frameRate": 32, "bitRate": 700000, "maxWidth": 480 },
+      { "maxHeight": 198, "frameRate": 16, "bitRate": 420000, "maxWidth": 352 },
+      { "maxHeight": 144, "frameRate": 16, "bitRate": 128000, "maxWidth": 192 }
+    ]
+  },
+  "AVAssetExportBitRateYouTubeHD": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 1280,
+        "frameRate": 30,
+        "bitRate": 4500000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 2500000,
+        "maxWidth": 960
+      },
+      {
+        "maxHeight": 640,
+        "frameRate": 30,
+        "bitRate": 1800000,
+        "maxWidth": 640
+      },
+      { "maxHeight": 320, "frameRate": 30, "bitRate": 840000, "maxWidth": 320 }
+    ]
+  },
+  "AVAssetExportBitRateBasicSquare": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 2560,
+        "frameRate": 30,
+        "bitRate": 24000000,
+        "maxWidth": 2560
+      },
+      {
+        "maxHeight": 1920,
+        "frameRate": 30,
+        "bitRate": 17500000,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 1280,
+        "frameRate": 30,
+        "bitRate": 14000000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 11000000,
+        "maxWidth": 960
+      },
+      { "maxHeight": 640, "frameRate": 30, "bitRate": 5000000, "maxWidth": 640 }
+    ]
+  },
+  "AVAssetExportBitRateICPLHEVCSquare": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 1440,
+        "frameRate": 30,
+        "bitRate": 6000000,
+        "maxWidth": 1440
+      },
+      { "maxHeight": 960, "frameRate": 30, "bitRate": 3000000, "maxWidth": 960 }
+    ]
+  },
+  "AVAssetExportBitRateICPL": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 4400000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 30,
+        "bitRate": 3355443,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 480,
+        "frameRate": 30,
+        "bitRate": 1150000,
+        "maxWidth": 640
+      },
+      { "maxHeight": 360, "frameRate": 30, "bitRate": 880804, "maxWidth": 640 }
+    ]
+  },
+  "AVAssetExportBitRateMessage": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 1280,
+        "frameRate": 32,
+        "bitRate": 2200000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 960,
+        "frameRate": 32,
+        "bitRate": 1250000,
+        "maxWidth": 960
+      },
+      { "maxHeight": 640, "frameRate": 32, "bitRate": 900000, "maxWidth": 640 },
+      { "maxHeight": 568, "frameRate": 32, "bitRate": 700000, "maxWidth": 568 },
+      { "maxHeight": 480, "frameRate": 32, "bitRate": 700000, "maxWidth": 480 },
+      { "maxHeight": 352, "frameRate": 16, "bitRate": 420000, "maxWidth": 352 },
+      { "maxHeight": 320, "frameRate": 16, "bitRate": 420000, "maxWidth": 320 },
+      { "maxHeight": 224, "frameRate": 16, "bitRate": 128000, "maxWidth": 224 },
+      { "maxHeight": 192, "frameRate": 16, "bitRate": 128000, "maxWidth": 192 }
+    ]
+  },
+  "AVAssetExportBitRateICPLHEVC": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 1440,
+        "frameRate": 30,
+        "bitRate": 7860000,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 1080,
+        "frameRate": 30,
+        "bitRate": 6000000,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 4400000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 30,
+        "bitRate": 3355443,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 480,
+        "frameRate": 30,
+        "bitRate": 1150000,
+        "maxWidth": 640
+      },
+      { "maxHeight": 360, "frameRate": 30, "bitRate": 880804, "maxWidth": 640 }
+    ]
+  },
+  "AVAssetExportBitRateBasic": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 2160,
+        "frameRate": 30,
+        "bitRate": 25000000,
+        "maxWidth": 3840
+      },
+      {
+        "maxHeight": 1440,
+        "frameRate": 30,
+        "bitRate": 19650000,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 1080,
+        "frameRate": 30,
+        "bitRate": 15000000,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 13755000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 30,
+        "bitRate": 10500000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 30,
+        "bitRate": 6877500,
+        "maxWidth": 960
+      },
+      {
+        "maxHeight": 540,
+        "frameRate": 30,
+        "bitRate": 5250000,
+        "maxWidth": 960
+      },
+      {
+        "maxHeight": 480,
+        "frameRate": 30,
+        "bitRate": 3500000,
+        "maxWidth": 640
+      },
+      {
+        "maxHeight": 360,
+        "frameRate": 30,
+        "bitRate": 2671756,
+        "maxWidth": 640
+      },
+      {
+        "maxHeight": 240,
+        "frameRate": 30,
+        "bitRate": 1000000,
+        "maxWidth": 320
+      },
+      { "maxHeight": 180, "frameRate": 30, "bitRate": 763359, "maxWidth": 320 }
+    ]
+  },
+  "AVAssetExportBitRateAVCAnimoji": {
+    "BitRateTiers": [
+      { "maxHeight": 640, "frameRate": 30, "bitRate": 600000, "maxWidth": 640 },
+      { "maxHeight": 480, "frameRate": 30, "bitRate": 550000, "maxWidth": 480 },
+      { "maxHeight": 320, "frameRate": 15, "bitRate": 320000, "maxWidth": 320 },
+      { "maxHeight": 192, "frameRate": 15, "bitRate": 120000, "maxWidth": 192 }
+    ]
+  },
+  "AVAssetExportBitRateHEVCBasic": {
+    "BitRateTiers": [
+      {
+        "maxHeight": 2160,
+        "frameRate": 30,
+        "bitRate": 15000000,
+        "maxWidth": 3840
+      },
+      {
+        "maxHeight": 1440,
+        "frameRate": 30,
+        "bitRate": 14737500,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 1080,
+        "frameRate": 30,
+        "bitRate": 11250000,
+        "maxWidth": 1920
+      },
+      {
+        "maxHeight": 960,
+        "frameRate": 30,
+        "bitRate": 11004000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 30,
+        "bitRate": 8400000,
+        "maxWidth": 1280
+      },
+      {
+        "maxHeight": 720,
+        "frameRate": 30,
+        "bitRate": 6877500,
+        "maxWidth": 960
+      },
+      {
+        "maxHeight": 540,
+        "frameRate": 30,
+        "bitRate": 5250000,
+        "maxWidth": 960
+      },
+      {
+        "maxHeight": 480,
+        "frameRate": 30,
+        "bitRate": 3500000,
+        "maxWidth": 640
+      },
+      {
+        "maxHeight": 360,
+        "frameRate": 30,
+        "bitRate": 2671756,
+        "maxWidth": 640
+      },
+      {
+        "maxHeight": 240,
+        "frameRate": 30,
+        "bitRate": 1000000,
+        "maxWidth": 320
+      },
+      { "maxHeight": 180, "frameRate": 30, "bitRate": 763359, "maxWidth": 320 }
+    ]
+  }
+}

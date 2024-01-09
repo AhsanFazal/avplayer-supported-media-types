@@ -1,0 +1,14 @@
+{
+  "not yet implemented: AutoJackInOnConnectionToDeviceThatWasDisconnectedWhileBeingRoutedTo_SecondsAgo": {
+    "HeadphonesBT": 300
+  },
+  "AutoJackInOnCategoryChange": {
+    "PhoneCall": [
+      { "Route": "HeadsetBT", "OnlyFirstTimeAfterConnection": true }
+    ],
+    "Voicemail": [
+      { "Route": "HeadsetBT", "OnlyFirstTimeAfterConnection": true }
+    ]
+  },
+  "AutoJackInOnConnection": { "HeadsetBT": ["PhoneCall", "Voicemail"] }
+}

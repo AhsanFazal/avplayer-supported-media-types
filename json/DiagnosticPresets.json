@@ -1,0 +1,31 @@
+{
+  "capture_diagnostic_preset": {
+    "livesource_trace": 2,
+    "recorderserver_trace": 2,
+    "recorder_trace": 2
+  },
+  "streaming_diagnostic_preset": {
+    "fhttpchunk_alt_trace": 1,
+    "fhttpchunk_trace": 1,
+    "DiskCacheRepository": 1,
+    "stream_trace": 1,
+    "urlasset_trace": 1,
+    "playmon_trace": 2,
+    "crabs_trace": 1,
+    "fp_trace": 1
+  },
+  "playback_diagnostic_preset": {
+    "fp_trace": 2,
+    "faq_trace": 1,
+    "stream_trace": 1,
+    "urlasset_trace": 1,
+    "cmsession_trace": 127
+  },
+  "export_diagnostic_preset": { "mixer_trace": 1, "remaker_trace": 1 },
+  "network_playback_diagnostic_preset": {
+    "playmon_trace": 2,
+    "crabs_trace": 1,
+    "cfbyteflume_trace": 1,
+    "httprequest_trace": 1
+  }
+}

@@ -1,0 +1,2279 @@
+{
+  "AVAssetExportPreset1920x1080": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1635148593,
+      "maxHeight": 1920,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "H264_High_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 15000000,
+      "maxWidth": 1920,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetAuxSmall": {
+    "Audio": { "audioPreset": "Preset_NoAudio" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 585,
+      "usageMode": 0,
+      "maxWidth": 780,
+      "videoMatrixHandling": "ApplyRotation",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 30,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 800000,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetICPL480x480": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 480,
+      "usageMode": 0,
+      "maxWidth": 480,
+      "videoMatrixHandling": "PreserveMatrix",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 30,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 90,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 880804,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetLowQuality": {
+    "Audio": { "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit" },
+    "Video": {
+      "profileLevel": "H264_Baseline_AutoLevel",
+      "maxHeight": 192,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 192,
+      "frameDurationTimeScale": 15,
+      "maxFrameRate": 16,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 128000
+    }
+  },
+  "AVAssetExportPresetICPLAux": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 480,
+      "usageMode": 0,
+      "maxWidth": 640,
+      "videoMatrixHandling": "PreserveMatrix",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 18,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 1150000,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetLowQuality_16x9": {
+    "Audio": { "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit" },
+    "Video": {
+      "profileLevel": "H264_Baseline_AutoLevel",
+      "maxHeight": 224,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 224,
+      "frameDurationTimeScale": 15,
+      "maxFrameRate": 16,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 128000
+    }
+  },
+  "AVAssetExportPresetMVHEVC1440x1440": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_256kbit" },
+    "Video": {
+      "stereoEncoding": true,
+      "frameReordering": true,
+      "usageMode": 0,
+      "videoCodec": 1752589105,
+      "maxHeight": 1440,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_601_4"
+        },
+        {
+          "transferFunction": "IEC_sRGB",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_601_4"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "keyFrameInterval": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "maxWidth": 1440,
+      "videoAverageBitRate": 19000000,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPresetMessageHEVCWithHDR": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 32,
+          "maxHeight": 960,
+          "frameDurationTimeScale": 30,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 960,
+          "videoAverageBitRate": 1250000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "maxAudioBitRate": 168000,
+          "preserveAlternateTracks": false,
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit"
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 32,
+          "maxHeight": 640,
+          "frameDurationTimeScale": 30,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 640,
+          "videoAverageBitRate": 900000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "maxAudioBitRate": 168000,
+          "preserveAlternateTracks": false,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 32,
+          "maxHeight": 480,
+          "frameDurationTimeScale": 30,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 480,
+          "videoAverageBitRate": 700000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 16,
+          "maxHeight": 320,
+          "frameDurationTimeScale": 15,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 320,
+          "videoAverageBitRate": 420000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 16,
+          "maxHeight": 192,
+          "frameDurationTimeScale": 15,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 192,
+          "videoAverageBitRate": 128000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetMessage_16x9": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 1280,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 1280,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 2200000
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 960,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 960,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 1250000
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "preserveAlternateTracks": false,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 568,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 568,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 700000
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 352,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 352,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 420000
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 224,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 224,
+          "frameDurationTimeScale": 15,
+          "maxFrameRate": 16,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 128000
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetYouTube_16x9": {
+    "Audio": {
+      "audioSettingPerChannelCount": {
+        "2": {
+          "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        }
+      },
+      "maxAudioBitRate": 168000,
+      "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+    },
+    "Video": {
+      "profileLevel": "H264_Main_AutoLevel",
+      "maxHeight": 568,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 568,
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 700000
+    }
+  },
+  "AVAssetExportPresetICPLHEVC1280x1280WithHDR": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "frameDurationValue": 1,
+      "maxFrameRate": 30,
+      "maxHeight": 1280,
+      "frameDurationTimeScale": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "maxWidth": 1280,
+      "videoAverageBitRate": 4200000,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPresetHEVCAnimojiWithAlpha": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "maxHeight": 640,
+          "maxWidth": 640,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 60,
+          "maxFrameRate": 64,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "alphaQuality": 0.59999999999999998,
+          "videoCodec": 1752589105,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "videoAverageBitRate": 900000,
+          "transferFunction": "ITU_R_709_2",
+          "alphaEncoding": true
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "maxHeight": 640,
+          "maxWidth": 640,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "alphaQuality": 0.59999999999999998,
+          "videoCodec": 1752589105,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "videoAverageBitRate": 650000,
+          "transferFunction": "ITU_R_709_2",
+          "alphaEncoding": true
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "maxHeight": 640,
+          "maxWidth": 640,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "alphaQuality": 0.59999999999999998,
+          "videoCodec": 1752589105,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "videoAverageBitRate": 450000,
+          "transferFunction": "ITU_R_709_2",
+          "alphaEncoding": true
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "maxHeight": 480,
+          "maxWidth": 480,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "alphaQuality": 0.59999999999999998,
+          "videoCodec": 1752589105,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "videoAverageBitRate": 350000,
+          "transferFunction": "ITU_R_709_2",
+          "alphaEncoding": true
+        }
+      },
+      {
+        "Audio": { "audioPreset": "Preset_AAC_44kHz_Mono_64kbit" },
+        "Video": {
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "maxHeight": 320,
+          "maxWidth": 320,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 15,
+          "maxFrameRate": 16,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "alphaQuality": 0.59999999999999998,
+          "videoCodec": 1752589105,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "videoAverageBitRate": 200000,
+          "transferFunction": "ITU_R_709_2",
+          "alphaEncoding": true
+        }
+      },
+      {
+        "Audio": { "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit" },
+        "Video": {
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "maxHeight": 192,
+          "maxWidth": 192,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 15,
+          "maxFrameRate": 16,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "alphaQuality": 0.59999999999999998,
+          "videoCodec": 1752589105,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "videoAverageBitRate": 160000,
+          "transferFunction": "ITU_R_709_2",
+          "alphaEncoding": true
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetAudioOnlyMMS": {
+    "maxFileSize": 604160,
+    "Audio": {
+      "audioPreset": "Preset_AMR_8kHz_Mono_12kbit_CBR",
+      "minAudioBitRate": 12800
+    },
+    "audioInterleavingAdvance": 0.5,
+    "Video": { "videoCodec": 1851876449 }
+  },
+  "AVAssetExportPresetAppleM4A": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": { "videoCodec": 1851876449 }
+  },
+  "AVAssetExportPresetHEVC1920x1080WithAlpha": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "alphaEncoding": true,
+      "maxHeight": 1920,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 11250000,
+      "alphaQuality": 0.75,
+      "maxWidth": 1920
+    }
+  },
+  "AVAssetExportPresetICPLHEVC1920x1080": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "frameDurationValue": 1,
+      "maxFrameRate": 30,
+      "maxHeight": 1080,
+      "frameDurationTimeScale": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "maxWidth": 1920,
+      "videoAverageBitRate": 6000000,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPresetICPL": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 640,
+      "usageMode": 0,
+      "maxWidth": 640,
+      "videoMatrixHandling": "PreserveMatrix",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 30,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 90,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 880804,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetMail_16x9": {
+    "Audio": {
+      "audioSettingPerChannelCount": {
+        "2": {
+          "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        }
+      },
+      "maxAudioBitRate": 168000,
+      "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+    },
+    "Video": {
+      "profileLevel": "H264_Baseline_AutoLevel",
+      "maxHeight": 568,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 568,
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 700000
+    }
+  },
+  "AVAssetExportPresetYouTube": {
+    "Audio": {
+      "audioSettingPerChannelCount": {
+        "2": {
+          "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        }
+      },
+      "maxAudioBitRate": 168000,
+      "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+    },
+    "Video": {
+      "profileLevel": "H264_Main_AutoLevel",
+      "maxHeight": 480,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 480,
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 700000
+    }
+  },
+  "AVAssetExportPresetICPL960x960": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 960,
+      "usageMode": 0,
+      "maxWidth": 960,
+      "videoMatrixHandling": "PreserveMatrix",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 30,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 90,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 3355443,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetMail": {
+    "Audio": {
+      "audioSettingPerChannelCount": {
+        "2": {
+          "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        }
+      },
+      "maxAudioBitRate": 168000,
+      "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+    },
+    "Video": {
+      "profileLevel": "H264_Baseline_AutoLevel",
+      "maxHeight": 480,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 480,
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 700000
+    }
+  },
+  "AVAssetExportPresetICPLAuxHD": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 720,
+      "usageMode": 0,
+      "maxWidth": 1280,
+      "videoMatrixHandling": "PreserveMatrix",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 18,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 4400000,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetMessage": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 960,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 960,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 1250000
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "preserveAlternateTracks": false,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 640,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 640,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 900000
+        }
+      },
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "preserveAlternateTracks": false,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 480,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 480,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 700000
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 320,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 320,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 420000
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 192,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 192,
+          "frameDurationTimeScale": 15,
+          "maxFrameRate": 16,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 128000
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetMessageAux": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        },
+        "Video": {
+          "profileLevel": "H264_High_AutoLevel",
+          "maxHeight": 720,
+          "maxWidth": 960,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "keyFrameInterval": 18,
+          "videoAverageBitRate": 4400000,
+          "transferFunction": "ITU_R_709_2",
+          "entropyMode": "CABAC"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        },
+        "Video": {
+          "profileLevel": "H264_High_AutoLevel",
+          "maxHeight": 540,
+          "maxWidth": 720,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "keyFrameInterval": 18,
+          "videoAverageBitRate": 2875000,
+          "transferFunction": "ITU_R_709_2",
+          "entropyMode": "CABAC"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        },
+        "Video": {
+          "profileLevel": "H264_High_AutoLevel",
+          "maxHeight": 480,
+          "maxWidth": 640,
+          "videoMatrixHandling": "PreserveMatrix",
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "keyFrameInterval": 18,
+          "videoAverageBitRate": 1150000,
+          "transferFunction": "ITU_R_709_2",
+          "entropyMode": "CABAC"
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetYouTubeHD": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "entropyMode": "CABAC",
+      "videoCodec": 1635148593,
+      "transferFunction": "ITU_R_709_2",
+      "ycbcrMatrix": "ITU_R_709_2",
+      "maxHeight": 1280,
+      "profileLevel": "H264_High_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 1280,
+      "colorPrimaries": "ITU_R_709_2",
+      "videoAverageBitRate": 4500000
+    }
+  },
+  "AVAssetExportPresetHEVCHighestQuality": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "maxHeight": 3840,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 15000000,
+      "maxWidth": 3840
+    }
+  },
+  "AVAssetExportPreset640x480": {
+    "Audio": {
+      "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+      "maxAudioBitRate": 168000
+    },
+    "Video": {
+      "videoCodec": 1635148593,
+      "transferFunction": "ITU_R_709_2",
+      "ycbcrMatrix": "ITU_R_709_2",
+      "maxHeight": 640,
+      "profileLevel": "H264_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "colorPrimaries": "ITU_R_709_2",
+      "videoAverageBitRate": 3500000,
+      "maxWidth": 640
+    }
+  },
+  "AVAssetExportPresetAppleProRes422LPCM": {
+    "Audio": { "audioPreset": "Preset_LPCM" },
+    "Video": {
+      "usageMode": 0,
+      "videoCodec": 1634755438,
+      "videoMatrixHandling": "ApplyRotation"
+    }
+  },
+  "AVAssetExportPreset3840x2160": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1635148593,
+      "maxHeight": 3840,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "H264_High_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 25000000,
+      "maxWidth": 3840,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetAppleProRes4444LPCM": {
+    "Audio": { "audioPreset": "Preset_LPCM" },
+    "Video": {
+      "usageMode": 0,
+      "videoCodec": 1634743400,
+      "videoMatrixHandling": "ApplyRotation"
+    }
+  },
+  "AVAssetExportPresetAVCAnimoji": {
+    "mediaTiers": [
+      {
+        "Audio": { "audioPreset": "Preset_AAC_44kHz_Mono_64kbit" },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 640,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 640,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 600000
+        }
+      },
+      {
+        "Audio": { "audioPreset": "Preset_AAC_44kHz_Mono_64kbit" },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 480,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 480,
+          "frameDurationTimeScale": 30,
+          "maxFrameRate": 32,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 550000
+        }
+      },
+      {
+        "Audio": { "audioPreset": "Preset_AAC_44kHz_Mono_64kbit" },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 320,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 320,
+          "frameDurationTimeScale": 15,
+          "maxFrameRate": 16,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 320000
+        }
+      },
+      {
+        "Audio": { "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit" },
+        "Video": {
+          "profileLevel": "H264_Main_AutoLevel",
+          "maxHeight": 192,
+          "videoMatrixHandling": "PreserveMatrix",
+          "maxWidth": 192,
+          "frameDurationTimeScale": 15,
+          "maxFrameRate": 16,
+          "ycbcrMatrix": "ITU_R_709_2",
+          "videoCodec": 1635148593,
+          "colorPrimaries": "ITU_R_709_2",
+          "frameDurationValue": 1,
+          "transferFunction": "ITU_R_709_2",
+          "videoAverageBitRate": 120000
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetHEVC3840x2160WithAlpha": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "alphaEncoding": true,
+      "maxHeight": 3840,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 15000000,
+      "alphaQuality": 0.75,
+      "maxWidth": 3840
+    }
+  },
+  "AVAssetExportPresetHEVC3840x2160": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "maxHeight": 3840,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 15000000,
+      "maxWidth": 3840
+    }
+  },
+  "AVAssetExportPresetPhotoStream": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 640,
+      "usageMode": 0,
+      "maxWidth": 640,
+      "videoMatrixHandling": "ApplyRotation",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 30,
+      "ycbcrMatrix": "ITU_R_601_4",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "SMPTE_C",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 30,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 880804,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetMMS": {
+    "maxFileSize": 604160,
+    "Audio": {
+      "audioPreset": "Preset_AMR_8kHz_Mono_12kbit_CBR",
+      "minAudioBitRate": 12800
+    },
+    "audioInterleavingAdvance": 0.5,
+    "Video": {
+      "minVideoBitRate": 90000,
+      "maxHeight": 144,
+      "maxWidth": 176,
+      "videoMatrixHandling": "ApplyRotation",
+      "width": 176,
+      "frameDurationTimeScale": 10,
+      "maxFrameRate": 16,
+      "minWidth": 128,
+      "scalingMode": "Letterbox",
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1748121139,
+      "height": 144,
+      "frameDurationValue": 1,
+      "colorPrimaries": "ITU_R_709_2",
+      "transferFunction": "ITU_R_709_2",
+      "minHeight": 96,
+      "videoAverageBitRate": 128000
+    }
+  },
+  "AVAssetExportPresetHighestQuality": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1635148593,
+      "maxHeight": 3840,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "H264_High_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 25000000,
+      "maxWidth": 3840,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPreset1280x720": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1635148593,
+      "transferFunction": "ITU_R_709_2",
+      "ycbcrMatrix": "ITU_R_709_2",
+      "maxHeight": 1280,
+      "profileLevel": "H264_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "colorPrimaries": "ITU_R_709_2",
+      "videoAverageBitRate": 10500000,
+      "maxWidth": 1280
+    }
+  },
+  "AVAssetExportPresetMediumQuality_16x9": {
+    "Audio": {
+      "audioSettingPerChannelCount": {
+        "2": {
+          "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        }
+      },
+      "maxAudioBitRate": 168000,
+      "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+    },
+    "Video": {
+      "profileLevel": "H264_Main_AutoLevel",
+      "maxHeight": 568,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 568,
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 700000
+    }
+  },
+  "AVAssetExportPresetICPLHEVC1920x1920WithHDR": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "frameDurationValue": 1,
+      "maxFrameRate": 30,
+      "maxHeight": 1920,
+      "frameDurationTimeScale": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "maxWidth": 1920,
+      "videoAverageBitRate": 6000000,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPresetMVHEVC960x960": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_256kbit" },
+    "Video": {
+      "stereoEncoding": true,
+      "frameReordering": true,
+      "usageMode": 0,
+      "videoCodec": 1752589105,
+      "maxHeight": 960,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_601_4"
+        },
+        {
+          "transferFunction": "IEC_sRGB",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_601_4"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "keyFrameInterval": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "maxWidth": 960,
+      "videoAverageBitRate": 12500000,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPresetICPLHEVC1440x1440WithHDR": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "frameDurationValue": 1,
+      "maxFrameRate": 30,
+      "maxHeight": 1440,
+      "frameDurationTimeScale": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "maxWidth": 1440,
+      "videoAverageBitRate": 6000000,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPreset3GPRelease6MMS": {
+    "maxFileSize": 1228800,
+    "Audio": {
+      "audioPreset": "Preset_AMR_8kHz_Mono_12kbit_CBR",
+      "minAudioBitRate": 12800
+    },
+    "audioInterleavingAdvance": 0.5,
+    "Video": {
+      "minVideoBitRate": 64000,
+      "profileLevel": "H264_Baseline_AutoLevel",
+      "maxHeight": 240,
+      "maxWidth": 320,
+      "videoMatrixHandling": "ApplyRotation",
+      "width": 320,
+      "frameDurationTimeScale": 15,
+      "maxFrameRate": 16,
+      "minWidth": 128,
+      "scalingMode": "Letterbox",
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "height": 240,
+      "frameDurationValue": 1,
+      "colorPrimaries": "ITU_R_709_2",
+      "minHeight": 96,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 131072
+    }
+  },
+  "AVAssetExportPreset960x540": {
+    "Audio": {
+      "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+      "maxAudioBitRate": 168000
+    },
+    "Video": {
+      "videoCodec": 1635148593,
+      "transferFunction": "ITU_R_709_2",
+      "ycbcrMatrix": "ITU_R_709_2",
+      "maxHeight": 960,
+      "profileLevel": "H264_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "colorPrimaries": "ITU_R_709_2",
+      "videoAverageBitRate": 5250000,
+      "maxWidth": 960
+    }
+  },
+  "AVAssetExportPresetMediumQuality": {
+    "Audio": {
+      "audioSettingPerChannelCount": {
+        "2": {
+          "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        }
+      },
+      "maxAudioBitRate": 168000,
+      "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+    },
+    "Video": {
+      "profileLevel": "H264_Main_AutoLevel",
+      "maxHeight": 480,
+      "videoMatrixHandling": "PreserveMatrix",
+      "maxWidth": 480,
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 32,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 700000
+    }
+  },
+  "AVAssetExportPresetHEVCHighestQualityWithAlpha": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "alphaEncoding": true,
+      "maxHeight": 3840,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 15000000,
+      "alphaQuality": 0.75,
+      "maxWidth": 3840
+    }
+  },
+  "AVAssetExportPresetMessageAudio": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioSettingPerChannelCount": {
+            "2": {
+              "audioPreset": "Preset_AAC_44kHz_Stereo_128kbit",
+              "maxAudioBitRate": 168000
+            }
+          },
+          "maxAudioBitRate": 168000,
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit"
+        }
+      },
+      { "Audio": { "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit" } }
+    ]
+  },
+  "AVAssetExportPresetPhotoStreamHD": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 1280,
+      "usageMode": 0,
+      "maxWidth": 1280,
+      "videoMatrixHandling": "ApplyRotation",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 30,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 30,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 2936013,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetMessageHEVCWithHDR_16x9": {
+    "mediaTiers": [
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 32,
+          "maxHeight": 1280,
+          "frameDurationTimeScale": 30,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 1280,
+          "videoAverageBitRate": 2200000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit",
+          "maxAudioBitRate": 168000
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 32,
+          "maxHeight": 960,
+          "frameDurationTimeScale": 30,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 960,
+          "videoAverageBitRate": 1250000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "maxAudioBitRate": 168000,
+          "preserveAlternateTracks": false,
+          "audioPreset": "Preset_AAC_48kHz_Stereo_128kbit"
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 32,
+          "maxHeight": 568,
+          "frameDurationTimeScale": 30,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 568,
+          "videoAverageBitRate": 700000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AAC_44kHz_Mono_64kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 16,
+          "maxHeight": 352,
+          "frameDurationTimeScale": 15,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 352,
+          "videoAverageBitRate": 420000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      },
+      {
+        "Audio": {
+          "audioPreset": "Preset_AACHE_44kHz_Mono_24kbit",
+          "preserveAlternateTracks": false
+        },
+        "Video": {
+          "usageMode": 0,
+          "videoCodec": 1752589105,
+          "frameDurationValue": 1,
+          "maxFrameRate": 16,
+          "maxHeight": 224,
+          "frameDurationTimeScale": 15,
+          "profileLevel": "HEVC_Main_AutoLevel",
+          "colorPropertyTiers": [
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_709_2",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "P3_D65",
+              "ycbcrMatrix": "ITU_R_709_2"
+            },
+            {
+              "transferFunction": "ITU_R_709_2",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2020",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "ITU_R_2100_HLG",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            },
+            {
+              "transferFunction": "SMPTE_ST_2084_PQ",
+              "colorPrimaries": "ITU_R_2020",
+              "ycbcrMatrix": "ITU_R_2020"
+            }
+          ],
+          "maxWidth": 224,
+          "videoAverageBitRate": 128000,
+          "videoMatrixHandling": "PreserveMatrix"
+        }
+      }
+    ]
+  },
+  "AVAssetExportPresetICPLHD": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "profileLevel": "H264_High_AutoLevel",
+      "frameReordering": true,
+      "maxHeight": 1280,
+      "usageMode": 0,
+      "maxWidth": 1280,
+      "videoMatrixHandling": "PreserveMatrix",
+      "frameDurationTimeScale": 30,
+      "maxFrameRate": 30,
+      "ycbcrMatrix": "ITU_R_709_2",
+      "videoCodec": 1635148593,
+      "colorPrimaries": "ITU_R_709_2",
+      "frameDurationValue": 1,
+      "keyFrameInterval": 90,
+      "transferFunction": "ITU_R_709_2",
+      "videoAverageBitRate": 3355443,
+      "entropyMode": "CABAC"
+    }
+  },
+  "AVAssetExportPresetICPLHEVC960x960WithHDR": {
+    "Audio": { "audioPreset": "Preset_AAC_48kHz_Stereo_160kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "frameDurationValue": 1,
+      "maxFrameRate": 30,
+      "maxHeight": 960,
+      "frameDurationTimeScale": 30,
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "maxWidth": 960,
+      "videoAverageBitRate": 3355443,
+      "videoMatrixHandling": "PreserveMatrix"
+    }
+  },
+  "AVAssetExportPresetHEVC1920x1080": {
+    "Audio": { "audioPreset": "Preset_AAC_44kHz_Stereo_256kbit" },
+    "Video": {
+      "videoCodec": 1752589105,
+      "maxHeight": 1920,
+      "colorPropertyTiers": [
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_709_2",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "P3_D65",
+          "ycbcrMatrix": "ITU_R_709_2"
+        },
+        {
+          "transferFunction": "ITU_R_709_2",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2020",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "ITU_R_2100_HLG",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        },
+        {
+          "transferFunction": "SMPTE_ST_2084_PQ",
+          "colorPrimaries": "ITU_R_2020",
+          "ycbcrMatrix": "ITU_R_2020"
+        }
+      ],
+      "profileLevel": "HEVC_Main_AutoLevel",
+      "videoMatrixHandling": "PreserveMatrix",
+      "videoAverageBitRate": 11250000,
+      "maxWidth": 1920
+    }
+  }
+}

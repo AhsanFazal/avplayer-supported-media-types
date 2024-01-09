@@ -1,0 +1,86 @@
+{
+  "VideoCodecProfiles": {
+    "mp4v": { "MaxProfile": 1, "MaxLevel": 5 },
+    "SVQ3": { "VideoMaxPixelsPerFrame": 76800 },
+    "h263": { "MaxProfile": 0, "MaxLevel": 45 },
+    "avc1": {
+      "SupportedProfiles": [66, 77, 100],
+      "MaxLevel": 52,
+      "PerProfileConstraints": {
+        "100": { "MaxAverageMegabits": 240 },
+        "66": { "MaxAverageMegabits": 240 },
+        "77": { "MaxAverageMegabits": 240 }
+      }
+    },
+    "hvc1": {
+      "PerProfileConstraints": {
+        "1": { "MaxAverageMegabits": 160 },
+        "2": { "MaxAverageMegabits": 160 },
+        "4": { "MaxAverageMegabits": 160 }
+      },
+      "SupportedProfiles": [1, 2, 4],
+      "MaxLevel": 153,
+      "MaxTier": 1
+    },
+    "dvh1": {
+      "SupportedLevels": ["01", "02", "03", "04", "05", "06", "07"],
+      "SupportedProfiles": ["05", "08"]
+    }
+  },
+  "soun": [
+    "lpcm",
+    "ima4",
+    "aac ",
+    "paac",
+    "aaac",
+    "usac",
+    "alac",
+    ".mp3",
+    "samr",
+    "ulaw",
+    "alaw",
+    "ac-3",
+    "pac3",
+    "0x6d730002",
+    "0x6d730011",
+    "0x6d730031",
+    "ec-3",
+    "pec3",
+    "aace",
+    "aacf",
+    "aacg",
+    "aach",
+    "aacl",
+    "aacp",
+    "flac",
+    "opus"
+  ],
+  "vide": [
+    "hvc1",
+    "dvh1",
+    "avc1",
+    "mp4v",
+    "SVQ3",
+    "ipb ",
+    "h263",
+    "dmb1",
+    "jpeg",
+    "drmi",
+    "muxa",
+    "ap4x",
+    "ap4h",
+    "apcn",
+    "apch",
+    "apcs",
+    "apco"
+  ],
+  "VideoMaxWidth": 8192,
+  "VideoNoInterlacing": true,
+  "VideoMaxPixelsPerFrame": 35389440,
+  "text": ["wvtt", "svtt"],
+  "AllowMultipleEdits": true,
+  "TrackTypes": ["vide", "soun", "clcp", "sbtl", "text", "scen"],
+  "VideoMaxHeight": 8192,
+  "AudioMaxSampleRate": 192000,
+  "ValidationType": "RequireOneRecognized"
+}

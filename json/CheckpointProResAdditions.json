@@ -1,0 +1,208 @@
+{
+  "VideoCodecs": {
+    "AppleProRes422LT": {
+      "MinimumWidth": 32,
+      "MaximumResolution": 67108864,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 32,
+      "MaximumWidth": 8192,
+      "Codec": "apcs",
+      "MaximumHeight": 8192,
+      "MaximumPixelsPerSecond": 4026531840
+    },
+    "AppleProRes422HQ": {
+      "MinimumWidth": 32,
+      "MaximumResolution": 67108864,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 32,
+      "MaximumWidth": 8192,
+      "Codec": "apch",
+      "MaximumHeight": 8192,
+      "MaximumPixelsPerSecond": 4026531840
+    },
+    "AppleProRes4444XQ": {
+      "MinimumWidth": 32,
+      "MaximumResolution": 67108864,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 32,
+      "MaximumWidth": 8192,
+      "Codec": "ap4x",
+      "MaximumHeight": 8192,
+      "MaximumPixelsPerSecond": 4026531840
+    },
+    "AppleProRes422Proxy": {
+      "MinimumWidth": 32,
+      "MaximumResolution": 67108864,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 32,
+      "MaximumWidth": 8192,
+      "Codec": "apco",
+      "MaximumHeight": 8192,
+      "MaximumPixelsPerSecond": 4026531840
+    },
+    "AppleProRes422": {
+      "MinimumWidth": 32,
+      "MaximumResolution": 67108864,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 32,
+      "MaximumWidth": 8192,
+      "Codec": "apcn",
+      "MaximumHeight": 8192,
+      "MaximumPixelsPerSecond": 4026531840
+    },
+    "AppleProRes4444": {
+      "MinimumWidth": 32,
+      "MaximumResolution": 67108864,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 32,
+      "MaximumWidth": 8192,
+      "Codec": "ap4h",
+      "MaximumHeight": 8192,
+      "MaximumPixelsPerSecond": 4026531840
+    }
+  }
+}

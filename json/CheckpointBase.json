@@ -1,0 +1,697 @@
+{
+  "AudioCodecs": {
+    "Audible": {
+      "Type3": true,
+      "Type2": true,
+      "AAC": true,
+      "Type1": false,
+      "Type4": true
+    },
+    "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+    "AppleLossless": {
+      "AppleDRM": true,
+      "Mono": true,
+      "Multichannel": false,
+      "MaximumBitDepthUntruncated": 16,
+      "Stereo": true,
+      "MaximumBitDepth": 32
+    },
+    "AAC": {
+      "MaximumSampleRate": 96000,
+      "AppleDRM": true,
+      "LC": { "PerceptualNoiseSubsitution": true, "VariableBitRate": true }
+    },
+    "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+    "FLAC": {
+      "Mono": true,
+      "Stereo": true,
+      "Multichannel": false,
+      "Codec": "flac"
+    },
+    "WAV": {
+      "Mono": true,
+      "Stereo": true,
+      "Multichannel": false,
+      "MaximumBitDepth": 24
+    },
+    "AIFF": {
+      "Mono": true,
+      "Stereo": true,
+      "Multichannel": false,
+      "MaximumBitDepth": 24
+    },
+    "AMR": {
+      "Codec": "samr",
+      "MaximumSampleRate": 8000,
+      "Mono": true,
+      "Multichannel": false,
+      "Stereo": false,
+      "MaximumBitDepth": 16
+    },
+    "MP3": {
+      "MaximumSampleRate": 48000,
+      "Mono": true,
+      "Stereo": true,
+      "MaximumDataRate": 320
+    },
+    "USAC": {
+      "MaximumSampleRate": 96000,
+      "Mono": true,
+      "Multichannel": false,
+      "Stereo": true,
+      "Codec": "usac"
+    }
+  },
+  "VideoCodecs": {
+    "H.264": {
+      "MinimumWidth": 32,
+      "Profile": "B",
+      "MaximumResolution": 2088960,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "MaximumWidth": 1920,
+      "Level": 41,
+      "MinimumHeight": 32,
+      "MaximumHeight": 1920,
+      "MaximumPixelsPerSecond": 65318400
+    },
+    "H.264M_UHDVideo3": {
+      "MaximumBitrate": 230000000,
+      "MaximumHeight": 3840,
+      "Profile": "M",
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true }
+      },
+      "MaximumPixelsPerSecond": 261273600,
+      "MaximumResolution": 8294400,
+      "MaximumWidth": 3840,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 52,
+      "SupportsBFrames": true
+    },
+    "H.264_HDVideo42": {
+      "MinimumWidth": 32,
+      "Profile": "B",
+      "MaximumResolution": 2088960,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "MaximumWidth": 1920,
+      "Level": 42,
+      "MinimumHeight": 32,
+      "MaximumHeight": 1920,
+      "MaximumPixelsPerSecond": 130636800
+    },
+    "H.264H_UHDVideo2": {
+      "MaximumBitrate": 230000000,
+      "MaximumHeight": 3840,
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "NumericProfile": 100,
+      "MaximumPixelsPerSecond": 261273600,
+      "MaximumResolution": 8294400,
+      "MaximumWidth": 3840,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 51,
+      "SupportsBFrames": true
+    },
+    "MPEG4": {
+      "MinimumWidth": 16,
+      "MaximumAverageBitRate": 5000,
+      "MaximumResolution": 307200,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MinimumHeight": 16,
+      "MaximumWidth": 720,
+      "MaximumHeight": 576,
+      "Profile-Level-ID": 3
+    },
+    "H.264M_UHDVideo": {
+      "MaximumBitrate": 100000000,
+      "MaximumHeight": 3840,
+      "Profile": "M",
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MaximumPixelsPerSecond": 130636800,
+      "MaximumResolution": 8294400,
+      "MaximumWidth": 3840,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 51,
+      "SupportsBFrames": true
+    },
+    "H.264H_HDVideo42": {
+      "MaximumHeight": 1920,
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "NumericProfile": 100,
+      "MaximumPixelsPerSecond": 130636800,
+      "MaximumResolution": 2088960,
+      "MaximumWidth": 1920,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 42,
+      "SupportsBFrames": true
+    },
+    "H.264_UHDVideo": {
+      "MaximumBitrate": 135000000,
+      "MinimumWidth": 32,
+      "Profile": "B",
+      "MaximumResolution": 8294400,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "MaximumWidth": 3840,
+      "Level": 51,
+      "MinimumHeight": 32,
+      "MaximumHeight": 3840,
+      "MaximumPixelsPerSecond": 130636800
+    },
+    "H.264H": {
+      "MaximumHeight": 1920,
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "NumericProfile": 100,
+      "MaximumPixelsPerSecond": 65318400,
+      "MaximumResolution": 2088960,
+      "MaximumWidth": 1920,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 41,
+      "SupportsBFrames": true
+    },
+    "H.263": {
+      "xMaximumPixelsPerSecond": 633600,
+      "MinimumWidth": 16,
+      "NumericProfile": 0,
+      "MaximumResolution": 25344,
+      "AudioCodecs": { "AMR": { "Codec": "samr" } },
+      "MinimumHeight": 16,
+      "MaximumWidth": 176,
+      "Codec": "h263",
+      "Level": 45,
+      "MaximumHeight": 144
+    },
+    "H.264LC": {
+      "MinimumWidth": 32,
+      "Profile": "B",
+      "MaximumResolution": 921600,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "ComplexityLevel": 1,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "MaximumWidth": 1280,
+      "Level": 41,
+      "MinimumHeight": 32,
+      "MaximumHeight": 1280
+    },
+    "H.264M": {
+      "MaximumHeight": 1920,
+      "Profile": "M",
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MaximumPixelsPerSecond": 65318400,
+      "MaximumResolution": 2088960,
+      "MaximumWidth": 1920,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 41,
+      "SupportsBFrames": true
+    },
+    "H.264M_UHDVideo2": {
+      "MaximumBitrate": 230000000,
+      "MaximumHeight": 3840,
+      "Profile": "M",
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MaximumPixelsPerSecond": 261273600,
+      "MaximumResolution": 8294400,
+      "MaximumWidth": 3840,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 51,
+      "SupportsBFrames": true
+    },
+    "H.264H_UHDVideo3": {
+      "MaximumBitrate": 230000000,
+      "MaximumHeight": 3840,
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true }
+      },
+      "NumericProfile": 100,
+      "MaximumPixelsPerSecond": 261273600,
+      "MaximumResolution": 8294400,
+      "MaximumWidth": 3840,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 52,
+      "SupportsBFrames": true
+    },
+    "H.264M_HDVideo42": {
+      "MaximumHeight": 1920,
+      "Profile": "M",
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "MaximumPixelsPerSecond": 130636800,
+      "MaximumResolution": 2088960,
+      "MaximumWidth": 1920,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 42,
+      "SupportsBFrames": true
+    },
+    "H.264_UHDVideo2": {
+      "MaximumBitrate": 240000000,
+      "MinimumWidth": 32,
+      "Profile": "B",
+      "MaximumResolution": 8294400,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "MaximumWidth": 3840,
+      "Level": 51,
+      "MinimumHeight": 32,
+      "MaximumHeight": 3840,
+      "MaximumPixelsPerSecond": 261273600
+    },
+    "H.264H_UHDVideo": {
+      "MaximumBitrate": 100000000,
+      "MaximumHeight": 3840,
+      "MinimumWidth": 32,
+      "Codec": "avc1",
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "USAC": {
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "Codec": "usac"
+        }
+      },
+      "NumericProfile": 100,
+      "MaximumPixelsPerSecond": 130636800,
+      "MaximumResolution": 8294400,
+      "MaximumWidth": 3840,
+      "MinimumHeight": 32,
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "Level": 51,
+      "SupportsBFrames": true
+    },
+    "H.264_UHDVideo3": {
+      "MaximumBitrate": 240000000,
+      "MinimumWidth": 32,
+      "Profile": "B",
+      "MaximumResolution": 8294400,
+      "AudioCodecs": {
+        "PCM": {
+          "Codec": "pcm ",
+          "MaximumSampleRate": 96000,
+          "Mono": true,
+          "Multichannel": false,
+          "Stereo": true,
+          "MaximumBitDepth": 16
+        },
+        "AAC": {
+          "LC": { "Multichannel": false, "VariableBitRate": true },
+          "AppleDRM": true,
+          "MaximumSampleRate": 96000,
+          "MaximumBitRate": 256
+        },
+        "EnhancedAC3": { "MaximumSampleRate": 48000, "AppleDRM": true },
+        "AC3": { "MaximumSampleRate": 48000, "AppleDRM": true }
+      },
+      "AppleVideoDRM": { "MaximumEncryptionPercentage": 100 },
+      "MaximumWidth": 3840,
+      "Level": 52,
+      "MinimumHeight": 32,
+      "MaximumHeight": 3840,
+      "MaximumPixelsPerSecond": 261273600
+    }
+  }
+}
